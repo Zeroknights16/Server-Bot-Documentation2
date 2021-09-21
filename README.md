@@ -26,15 +26,16 @@ Ice Server Bot have an amount of commands & features for different uses. At here
 <h2>General</h2>
 
 <h3>Available Commands:</h3>
-➥ botinfo
-➥ help
-➥ invites
-➥ invitetop
-➥ info
-➥ ip
-➥ permission
-➥ ping
-➥ server
-➥ uptime
-➥ vanity
+
+- **botinfo**
+- **help
+- **invites
+- **invitetop
+- **info
+- **ip
+- **permission
+- **ping
+- **server
+- **uptime
+- **vanity
 
