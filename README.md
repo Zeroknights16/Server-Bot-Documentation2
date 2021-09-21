@@ -9,6 +9,10 @@ The Server Bot supports Windows, and Ubuntu servers and works from Discord.js v1
 <h2>Features Overview</h2>
 Ice Server Bot have an amount of commands & features for different uses. At here you find the complete feature list:
 
-1. [Tickets](https://github.com/Zeroknights16/Ice-Dev-Server-Bot-V2/blob/main/README.md#features-overview)
+
+
+
+
+» [Tickets](https://github.com/Zeroknights16/Ice-Dev-Server-Bot-V2/blob/main/README.md#features-overview)
 
 <h3>Tickets</h3>
