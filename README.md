@@ -48,7 +48,7 @@ general:
   commands:
     botinfo:
       enabled: true #Every command can be disabled. Put "false" instead of "true" to disable a command.
-      aliases: #Every command can have its own aliases. This command will also be executed if an user type "<prefix>binfo". It can have up to unlimited aliases.
+      aliases: #Every command can have its own aliases. This command will also be executed if an user type "<prefix>binfo". It can have up to unlimited aliases. It is not recommended to setup more than 2 aliases per command as it makes the bot slow.
         - "binfo"
       description: "Displays information about the bot"
       usage: "botinfo"
