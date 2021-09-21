@@ -39,3 +39,4 @@ Ice Server Bot have an amount of commands & features for different uses. At here
 - **uptime**
 - **vanity**
 
+<h3>Configurating:</h3>
