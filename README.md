@@ -7,3 +7,5 @@ Check this to see all benefits of Ice Server Bot.
 The Server Bot supports Windows, and Ubuntu servers and works from Discord.js v12 - v13 depending on the used bot version.
 
 <h2 align="center">Features Overview</h2>
+
+<h3 align="center">Tickets</h3>
