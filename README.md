@@ -1,2 +1,1 @@
-<h1 align="center"> Documentation
-Documentation
+<h1 align="center"> Documentation</h1>
