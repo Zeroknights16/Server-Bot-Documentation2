@@ -55,7 +55,7 @@ general:
       example: "botinfo" #Command Usage Example (Not Recommended to edit.)
       cooldown: 3 #Command Cooldown (Not recommended to set under 3 seconds.)
       permission:
-        role_permission: false
+        role_permission: false #Enable if the bot should use roles as permissions instead of permission notes. (Recommended)
         required_role: "804354021481381909"
         permission: "VIEW_CHANNEL"
 ```
