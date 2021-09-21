@@ -59,3 +59,5 @@ general:
         required_role: "804354021481381909" #If "role_permission" is enabled, the user will need this role or one above to be able to execute this command.
         permission: "VIEW_CHANNEL" #If "role_permission" is disabled, the user will need this permission note to be able to execute this command.
 ```
+
+<h3>Showcase:</h3>
