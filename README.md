@@ -50,10 +50,10 @@ general:
       enabled: true #Every command can be disabled. Put "false" instead of "true" to disable a command.
       aliases: #Every command can have its own aliases. This command will also be executed if an user type "<prefix>binfo". It can have up to unlimited aliases. It is not recommended to setup more than 2 aliases per command as it makes the bot slow.
         - "binfo"
-      description: "Displays information about the bot"
-      usage: "botinfo"
-      example: "botinfo"
-      cooldown: 3
+      description: "Displays information about the bot" #Command Description
+      usage: "botinfo" #Command Usage (Not Recommended to edit.)
+      example: "botinfo" #Command Usage Example (Not Recommended to edit.)
+      cooldown: 3 #Command Cooldown (Not recommended to set under 3 seconds.)
       permission:
         role_permission: false
         required_role: "804354021481381909"
