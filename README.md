@@ -47,9 +47,9 @@ Ice Server Bot have an amount of commands & features for different uses. At here
 general:   
   commands:
     botinfo:
-      enabled: true
-      aliases:
-        - ""
+      enabled: true #Every command can be disabled. Put "false" instead of "true" to disable a command.
+      aliases: #Every command can have its own aliases. This command will also be executed if an user type "<prefix>binfo". It can have up to unlimited aliases.
+        - "binfo"
       description: "Displays information about the bot"
       usage: "botinfo"
       example: "botinfo"
