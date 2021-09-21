@@ -25,4 +25,4 @@ Ice Server Bot have an amount of commands & features for different uses. At here
 
 <h2>Features & Commands</h2>
 
-<h3>Tickets</h3>
+<h3>General</h3>
