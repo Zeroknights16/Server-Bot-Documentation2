@@ -10,3 +10,4 @@ The Server Bot supports Windows, and Ubuntu servers and works from Discord.js v1
 Ice Server Bot have an amount of commands & features for different uses. At here you find the complete command list.
 
 <h3 align="center">Tickets</h3>
+<a href="https://www.mongodb.com/" target="_blank">
