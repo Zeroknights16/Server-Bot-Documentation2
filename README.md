@@ -56,6 +56,6 @@ general:
       cooldown: 3 #Command Cooldown (Not recommended to set under 3 seconds.)
       permission:
         role_permission: false #Enable if the bot should use roles as permissions instead of permission notes. (Recommended)
-        required_role: "804354021481381909"
-        permission: "VIEW_CHANNEL"
+        required_role: "804354021481381909" #If "role_permission" is enabled, the user will need this role or one above to be able to execute this command.
+        permission: "VIEW_CHANNEL" #If "role_permission" is disabled, the user will need this permission note to be able to execute this command.
 ```
