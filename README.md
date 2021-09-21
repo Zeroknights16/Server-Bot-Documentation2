@@ -44,5 +44,18 @@ Ice Server Bot have an amount of commands & features for different uses. At here
 ![configurating1](https://user-images.githubusercontent.com/73501749/134250196-28c099c8-4aec-42b3-8155-a9b339076632.png)
 
 ```
-ddh
+general:   
+  commands:
+    botinfo:
+      enabled: true
+      aliases:
+        - ""
+      description: "Displays information about the bot"
+      usage: "botinfo"
+      example: "botinfo"
+      cooldown: 3
+      permission:
+        role_permission: false
+        required_role: "804354021481381909"
+        permission: "VIEW_CHANNEL"
 ```
