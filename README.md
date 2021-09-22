@@ -141,3 +141,20 @@ Commands can be configured like explained above. ([here](https://github.com/Zero
 ![f5cbb646ad96ba050aeae7f2452f8e69](https://user-images.githubusercontent.com/73501749/134393150-dbc8a50f-67f6-4c03-b93b-e711023d2f8c.png)
 ![03f606b5196c6f763411338c49cfe4de](https://user-images.githubusercontent.com/73501749/134393514-1cbd8c88-4887-48dc-a7fd-c04e7d442258.png)
 
+<h2>Fun</h2>
+
+<h3>Available Commands:</h3>
+
+- **ban [@User] <Reason>**
+- **kick [@User] <Reason>**
+- **lock <#Channel>**
+- **mute [@User] <Reason>**
+- **purge [Amount]**
+- **slowmode [Seconds] <#Channel>**
+- **tempban [@User] [Duration] <Reason**
+- **tempmute [@User] [Duration] <Reason**
+- **unban [ID]**
+- **unlock <#Channel>**
+- **unmute [@User] <Reason>**
+- **unwarn [@User]**
+- **warn [@User] <Reason>**
