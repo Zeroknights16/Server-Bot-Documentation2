@@ -292,7 +292,7 @@ N/A
 
 <h3>Configurating:</h3>
 
-![572f96443c9e437270972fbd71b10e82](https://user-images.githubusercontent.com/73501749/134397484-2cc88795-4c13-4aa5-8966-25cd386a305f.png)
+![13b9a9fe6b1c82bfaecb10e37312a2fa](https://user-images.githubusercontent.com/73501749/134398387-98341db0-88f1-47e9-af4d-0cdbce0809bf.png)
 
 ```yaml
 auto_mod:
