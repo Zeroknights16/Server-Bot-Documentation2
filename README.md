@@ -123,8 +123,8 @@ Commands can be configured like explained above. ([here](https://github.com/Zero
 - **mute [@User] <Reason>**
 - **purge [Amount]**
 - **slowmode [Seconds] <#Channel>**
-- **tempban [@User] [Duration] <Reason>**
-- **tempmute [@User] [Duration] <Reason>**
+- **tempban [@User] [Duration] <Reason**
+- **tempmute [@User] [Duration] <Reason**
 - **unban [ID]**
 - **unlock <#Channel>**
 - **unmute [@User] <Reason>**
