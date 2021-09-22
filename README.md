@@ -385,3 +385,52 @@ welcome:
 <h3>Showcase:</h3>
 
 ![6086dc6c321217439c3370da7f054e8f](https://cdn.discordapp.com/attachments/804354078943608842/833611123361316864/welcome-image.png)
+
+<h2>Gamemode Specific</h2>
+
+<h3>Available Commands:</h3>
+
+- **clearstrike [Gamemode/All]**
+- **gend [Message ID]**
+- **leader [@User] [Gamemode] [Name]**
+- **playingadd [Gamemode] [Name]**
+- **playingclear [Gamemode]**
+- **playinglist [Gamemode]**
+- **playingremove [Gamemode] [Name]**
+- **strike [Gamemode] [Name] [Strikes] [Reason]**
+- **strikeset [Gamemode] [Name] [Amount]**
+
+<h3>Configurating:</h3>
+
+![6086dc6c321217439c3370da7f054e8f](https://user-images.githubusercontent.com/73501749/134405494-2aea18e8-30bc-4841-80c9-4cb67cd0791d.png)
+
+```yaml
+gamemode:
+  options:
+    leader_discord:
+      faction:
+        discord_link: "https://discord.gg/"
+      skyblock:
+        discord_link: "https://discord.gg/"
+      prison:
+        discord_link: "https://discord.gg/"
+    strikes:
+      faction:
+        first_value_deduction: 2
+        strikes_per_step: 2
+        value_deduction_per_step: 10
+        max_strike_amount: 10
+      skyblock:
+        first_value_deduction: 2
+        strikes_per_step: 2
+        value_deduction_per_step: 10
+        max_strike_amount: 10
+      prison:
+        first_value_deduction: 2
+        strikes_per_step: 2
+        value_deduction_per_step: 10
+        max_strike_amount: 10
+```
+Commands can be configured like explained above. ([here](https://github.com/Zeroknights16/Ice-Dev-Server-Bot-V2/blob/main/README.md#configurating))
+
+<h3>Showcase:</h3>
