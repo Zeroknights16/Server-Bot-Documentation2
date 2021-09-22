@@ -199,7 +199,7 @@ Commands can be configured like explained above. ([here](https://github.com/Zero
 - **appdeny <@User>**
 - **dbcreate**
 - **demote [@User] [@Role]**
-- **devreport [error]** (In Development!!!)
+- **devreport [Error]** (In Development!!!)
 - **dm [@User] <Message>**
 - **embed <#Channel> [Title] [Content]**
 - **lookup <@User>**
