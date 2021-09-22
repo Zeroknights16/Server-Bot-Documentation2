@@ -130,3 +130,5 @@ Commands can be configured like explained above. ([here](https://github.com/Zero
 - **unmute [@User] <Reason>**
 - **unwarn [@User]**
 - **warn [@User] <Reason>**
+
+<h3>Configurating:</h3>
