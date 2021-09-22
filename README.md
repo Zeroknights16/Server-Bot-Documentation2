@@ -112,3 +112,5 @@ Commands can be configured like explained above. ([here](https://github.com/Zero
 ![b23906dbaaa1971369512d03cd7d0765](https://user-images.githubusercontent.com/73501749/134381893-4e3c55b2-ed6b-4591-86fb-23411f8d984f.png)
 ![2e5ed11abb2fdef318b754c348a9a52f](https://user-images.githubusercontent.com/73501749/134381953-9165b3c3-e06b-44d5-ad56-7c13c59d2559.png)
 ![8fdce9d8e5df416a7b4a7a0170e90f6c](https://user-images.githubusercontent.com/73501749/134382290-7d82d2b6-9f53-4ff6-b1e8-9375b898be9e.png)
+
+<h2>Moderation</h2>
