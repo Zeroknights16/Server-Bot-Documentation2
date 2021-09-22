@@ -67,3 +67,15 @@ general:
 ![84e853e042864cfb7e5bf68a37849a3a](https://user-images.githubusercontent.com/73501749/134369993-c85c959f-66d4-4867-83f0-f8e6c74d2f66.png)
   
 <h2>Tickets</h2>
+
+<h3>Available Commands:</h3>
+  
+- **add [@User]**
+- **blacklist [@User] <Reason>**
+- **close <Reason>**
+- **private [Mode]**
+- **remove [@User]**
+- **rename [Name]**
+- **ticketpanel**
+- **tleaderboard**
+- **unblacklist [@User] <Reason>**
