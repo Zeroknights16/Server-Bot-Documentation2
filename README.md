@@ -238,3 +238,29 @@ Commands can be configured like explained above. ([here](https://github.com/Zero
 ![618d65f4d4bf1619d352327cbb67f3f8](https://user-images.githubusercontent.com/73501749/134397080-df902f9a-99e1-4bab-8a59-70729fcc1858.png)
 ![7ccb5df6dea41b407ea0d28538428e36](https://user-images.githubusercontent.com/73501749/134397091-13655a58-359c-4640-a261-6732bb1c3542.png)
 ![ed7bb2f70877ae712983980817ca8a18](https://user-images.githubusercontent.com/73501749/134397100-8123ea46-c3c9-4bd0-9cad-639edd9b2f78.png)
+
+<h2>Logs</h2>
+
+<h3>Available Commands:</h3>
+N/A
+
+<h3>Configurating:</h3>
+
+```yaml
+general:   
+  commands:
+    botinfo:
+      enabled: true #Every command can be disabled. Put "false" instead of "true" to disable a command.
+      aliases: #Every command can have its own aliases. This command will also be executed if an user type "<prefix>binfo". It can have up to unlimited aliases. It is not recommended to setup more than 2 aliases per command as it makes the bot slow.
+        - "binfo"
+      description: "Displays information about the bot" #Command Description
+      usage: "botinfo" #Command Usage (Not Recommended to edit.)
+      example: "botinfo" #Command Usage Example (Not Recommended to edit.)
+      cooldown: 3 #Command Cooldown (Not recommended to set under 3 seconds.)
+      permission:
+        role_permission: false #Enable if the bot should use roles as permissions instead of permission notes. (Recommended)
+        required_role: "804354021481381909" #If "role_permission" is enabled, the user will need this role or one above to be able to execute this command.
+        permission: "VIEW_CHANNEL" #If "role_permission" is disabled, the user will need this permission note to be able to execute this command.
+```
+
+<h3>Showcase:</h3>
