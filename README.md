@@ -62,6 +62,6 @@ general:
 
 <h3>Showcase:</h3>
   
-![pic2](https://user-images.githubusercontent.com/73501749/134368410-0c73008a-73f0-4e72-bc3a-c0bea0547e36.png)
+![9df5dd9f62c12142156c00f1bccd57ad](https://user-images.githubusercontent.com/73501749/134369668-d7ed903d-7868-4ea8-8ee7-015714e514d8.png)
 ![pic233](https://user-images.githubusercontent.com/73501749/134368972-0b884f64-52da-4c8a-b024-3722b9d7eef8.png)
 ![ffacd8a3b59e53eb2f725fbb9bca1a35](https://user-images.githubusercontent.com/73501749/134369465-7b820e4c-11a1-449c-80c4-4146f3e3a57a.png)
