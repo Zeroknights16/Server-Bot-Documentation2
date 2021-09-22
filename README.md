@@ -449,5 +449,4 @@ Commands can be configured like explained above. ([here](https://github.com/Zero
 
 **Please note that this project is currently in the closed beta and is not available to buy or download.**
 
-**Regards,**
-**Zeroknights | Ice Dev Head Developer**
+**Regards, Zeroknights | Ice Dev Head Developer**
