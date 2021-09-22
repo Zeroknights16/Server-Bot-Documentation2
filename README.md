@@ -17,7 +17,7 @@ Ice Server Bot have an amount of commands & features for different uses. At here
 - [Suggestions](https://github.com/Zeroknights16/Ice-Dev-Server-Bot-V2/blob/main/README.md#suggestions)
 - [Management](https://github.com/Zeroknights16/Ice-Dev-Server-Bot-V2/blob/main/README.md#management)
 - [Giveaways](https://github.com/Zeroknights16/Ice-Dev-Server-Bot-V2/blob/main/README.md#giveaways)
-- [Logs](https://github.com/Zeroknights16/Ice-Dev-Server-Bot-V2/blob/main/README.md#features-overview)
+- [Logs](https://github.com/Zeroknights16/Ice-Dev-Server-Bot-V2/blob/main/README.md#logs)
 - [Auto Mod](https://github.com/Zeroknights16/Ice-Dev-Server-Bot-V2/blob/main/README.md#features-overview)
 - [Welcome](https://github.com/Zeroknights16/Ice-Dev-Server-Bot-V2/blob/main/README.md#features-overview)
 - [Gamemode Specific](https://github.com/Zeroknights16/Ice-Dev-Server-Bot-V2/blob/main/README.md#features-overview)
@@ -285,3 +285,78 @@ logs: #Either if a event or command should be logged or not
 ![ea27c43720424a0c4e1381eb9ecf3b24](https://user-images.githubusercontent.com/73501749/134398030-56ef1013-4c45-466e-869b-c46374884fc6.png)
 ![55c92f56a4f198187687014ca3e4786c](https://user-images.githubusercontent.com/73501749/134398124-b92c4783-7366-4cc4-9eeb-c5bc6c4b20a6.png)
 
+<h2>Auto Mod</h2>
+
+<h3>Available Commands:</h3>
+N/A
+
+<h3>Configurating:</h3>
+
+![572f96443c9e437270972fbd71b10e82](https://user-images.githubusercontent.com/73501749/134397484-2cc88795-4c13-4aa5-8966-25cd386a305f.png)
+
+```yaml
+auto_mod:
+  options:
+    links:
+      enabled: true
+      blacklisted_links:
+        - "discord.gg"
+        - "https://www.youtube.com/"
+      whitelisted_channels:
+        - "804354133124448286"
+        - "804354133124448286"
+      tickets_bypass: true
+      role_bypass:
+        enabled: true
+        role_id: "804354021481381909"
+      punishment:
+        warning: true
+        mute:
+          enabled: false
+          permanent: false
+          duration: "1h"
+        ban:
+          enabled: false
+          permanent: false
+          duration: ""
+    words:
+      enabled: true
+      blacklisted_words:
+        - "nigga"
+        - "nigger"
+      role_bypass:
+        enabled: true
+        role_id: "804354021481381909"
+      punishment:
+        warning: true
+        mute:
+          enabled: false
+          permanent: false
+          duration: "1h"
+        ban:
+          enabled: false
+          permanent: false
+          duration: "1h"
+    pings:
+      enabled: true
+      max_pings_per_message: 10
+      role_bypass:
+        enabled: true
+        role_id: "804354021481381909"
+      punishment:
+        warning: true
+        mute:
+          enabled: false
+          permanent: false
+          duration: "1h"
+        ban:
+          enabled: false
+          permanent: false
+          duration: "1h"
+```
+
+<h3>Showcase:</h3>
+
+![5cb374f927cf50c152e894c6a37834ba](https://user-images.githubusercontent.com/73501749/134397813-958c899b-fc91-4ac7-92fe-e4ca94781437.png)
+![ea27c43720424a0c4e1381eb9ecf3b24](https://user-images.githubusercontent.com/73501749/134398030-56ef1013-4c45-466e-869b-c46374884fc6.png)
+![55c92f56a4f198187687014ca3e4786c](https://user-images.githubusercontent.com/73501749/134398124-b92c4783-7366-4cc4-9eeb-c5bc6c4b20a6.png)
