@@ -444,4 +444,4 @@ Commands can be configured like explained above. ([here](https://github.com/Zero
 - **Users who got muted can not bypass the punishment via leaving and joining the guild back.**
 - **The Auto Moderation does also work when a message was edited and not only when a message was sent**
 - **All Timers Persist After Bot Restart ( Ex: Temp Mutes, Giveaways )**
-- **You can edit all messages in the message.yml file**
+- **All messages can be edited in the message.yml file**
