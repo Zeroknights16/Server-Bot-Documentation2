@@ -172,3 +172,31 @@ Commands can be configured like explained above. ([here](https://github.com/Zero
 ![72ac56506899047ce88aef8944dd1ea3](https://user-images.githubusercontent.com/73501749/134394271-49723321-a89d-44a2-9396-5b9bff3ead8b.png)
 ![261bf110750461d2178144bcd3e704f0](https://user-images.githubusercontent.com/73501749/134394338-e68a349f-2b01-4b6e-b1b3-308e2f69c1fc.png)
 ![ae49bc4ebc84d29f236d18083ffc68bd](https://user-images.githubusercontent.com/73501749/134394441-fc677e62-170b-4d7a-88cc-25d78a75dc3a.png)
+  
+<h2>Suggestions</h2>
+
+<h3>Available Commands:</h3>
+
+- **ask [Question]**
+- **bird**
+- **dicksize [@User]**
+- **dog**
+- **fact**
+- **iq <@User>**
+- **joke**
+- **meme**
+- **nuke**
+- **pickupline**
+- **reverse [Message]**
+- **rip [@User]**
+- **roll**
+- **shit [@User]**
+- **trash [@User]**
+- **wasted [@User]**
+- **weather [City]**
+
+<h3>Configurating:</h3>
+
+Commands can be configured like explained above. ([here](https://github.com/Zeroknights16/Ice-Dev-Server-Bot-V2/blob/main/README.md#configurating))
+
+<h3>Showcase:</h3>
