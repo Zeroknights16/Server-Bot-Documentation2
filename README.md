@@ -114,3 +114,19 @@ Commands can be configured like explained above. ([here](https://github.com/Zero
 ![8fdce9d8e5df416a7b4a7a0170e90f6c](https://user-images.githubusercontent.com/73501749/134382290-7d82d2b6-9f53-4ff6-b1e8-9375b898be9e.png)
 
 <h2>Moderation</h2>
+
+<h3>Available Commands:</h3>
+
+- **ban [@User] <Reason>**
+- **kick [@User] <Reason>**
+- **lock <#Channel>**
+- **mute [@User] <Reason>**
+- **purge [Amount]**
+- **slowmode [Seconds] <#Channel>**
+- **tempban [@User] [Duration] <Reason>**
+- **tempmute [@User] [Duration] <Reason>**
+- **unban [ID]**
+- **unlock <#Channel>**
+- **unmute [@User] <Reason>**
+- **unwarn [@User]**
+- **warn [@User] <Reason>**
