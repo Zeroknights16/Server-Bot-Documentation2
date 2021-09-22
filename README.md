@@ -79,3 +79,6 @@ general:
 - **ticketpanel**
 - **tleaderboard**
 - **unblacklist [@User] <Reason>**
+
+<h3>Configurating:</h3>
+  
