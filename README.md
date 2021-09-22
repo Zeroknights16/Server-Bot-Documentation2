@@ -445,3 +445,6 @@ Commands can be configured like explained above. ([here](https://github.com/Zero
 - **The Auto Moderation does also work when a message was edited and not only when a message was sent**
 - **All Timers Persist After Bot Restart ( Ex: Temp Mutes, Giveaways )**
 - **All messages can be edited in the message.yml file**
+- **and much more...**
+
+Please note that this project is currently in the closed beta and is not available to buy or download.
