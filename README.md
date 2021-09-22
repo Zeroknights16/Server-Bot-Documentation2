@@ -234,3 +234,7 @@ Commands can be configured like explained above. ([here](https://github.com/Zero
 Commands can be configured like explained above. ([here](https://github.com/Zeroknights16/Ice-Dev-Server-Bot-V2/blob/main/README.md#configurating))
 
 <h3>Showcase:</h3>
+
+![618d65f4d4bf1619d352327cbb67f3f8](https://user-images.githubusercontent.com/73501749/134397080-df902f9a-99e1-4bab-8a59-70729fcc1858.png)
+![7ccb5df6dea41b407ea0d28538428e36](https://user-images.githubusercontent.com/73501749/134397091-13655a58-359c-4640-a261-6732bb1c3542.png)
+![ed7bb2f70877ae712983980817ca8a18](https://user-images.githubusercontent.com/73501749/134397100-8123ea46-c3c9-4bd0-9cad-639edd9b2f78.png)
