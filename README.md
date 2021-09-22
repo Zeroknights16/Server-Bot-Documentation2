@@ -359,3 +359,29 @@ auto_mod:
 
 ![a1d9893d5da6631a4282245db6aaceaa](https://user-images.githubusercontent.com/73501749/134404815-ecee6465-9bbc-4f91-869c-e54dd3995023.png)
 ![6de15ef3b0244a7365bbdfcf8ec2876a](https://user-images.githubusercontent.com/73501749/134404829-75769820-686b-4d2b-9471-c8a70d835072.png)
+
+<h2>Welcome</h2>
+
+<h3>Available Commands:</h3>
+N/A
+
+<h3>Configurating:</h3>
+
+![6086dc6c321217439c3370da7f054e8f](https://user-images.githubusercontent.com/73501749/134405494-2aea18e8-30bc-4841-80c9-4cb67cd0791d.png)
+
+```yaml
+welcome:
+  options:
+    enabled: true
+    picture: #BETA!!!!! - There might be a few bugs.
+      enabled: true
+      pictures: #database/pictures/...
+        - "Bild1"
+        - "Bild2"
+    embed:
+      enabled: true
+```
+
+<h3>Showcase:</h3>
+
+![6086dc6c321217439c3370da7f054e8f](https://cdn.discordapp.com/attachments/804354078943608842/833611123361316864/welcome-image.png)
