@@ -103,3 +103,5 @@ tickets:
           senior_staff: true #Either if users with the senior staff role should be able to see tickets of this type or not
 ```
 Commands can be configured like explained above. ([here](https://github.com/Zeroknights16/Ice-Dev-Server-Bot-V2/blob/main/README.md#configurating))
+
+<h3>Showcase:</h3>
