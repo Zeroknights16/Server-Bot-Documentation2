@@ -102,3 +102,4 @@ tickets:
           support: true #Either if users with the support role should be able to see tickets of this type or not
           senior_staff: true #Either if users with the senior staff role should be able to see tickets of this type or not
 ```
+Commands can be configured like explained above. ([here] )
