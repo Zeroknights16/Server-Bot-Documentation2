@@ -283,3 +283,5 @@ logs: #Either if a event or command should be logged or not
 
 ![5cb374f927cf50c152e894c6a37834ba](https://user-images.githubusercontent.com/73501749/134397813-958c899b-fc91-4ac7-92fe-e4ca94781437.png)
 ![ea27c43720424a0c4e1381eb9ecf3b24](https://user-images.githubusercontent.com/73501749/134398030-56ef1013-4c45-466e-869b-c46374884fc6.png)
+![55c92f56a4f198187687014ca3e4786c](https://user-images.githubusercontent.com/73501749/134398124-b92c4783-7366-4cc4-9eeb-c5bc6c4b20a6.png)
+
