@@ -13,7 +13,7 @@ Ice Server Bot have an amount of commands & features for different uses. At here
 - [General](https://github.com/Zeroknights16/Ice-Dev-Server-Bot-V2/blob/main/README.md#general)
 - [Tickets](https://github.com/Zeroknights16/Ice-Dev-Server-Bot-V2/blob/main/README.md#tickets)
 - [Moderation](https://github.com/Zeroknights16/Ice-Dev-Server-Bot-V2/blob/main/README.md#moderation)
-- [Fun](https://github.com/Zeroknights16/Ice-Dev-Server-Bot-V2/blob/main/README.md#features-overview)
+- [Fun](https://github.com/Zeroknights16/Ice-Dev-Server-Bot-V2/blob/main/README.md#fun)
 - [Suggestions](https://github.com/Zeroknights16/Ice-Dev-Server-Bot-V2/blob/main/README.md#features-overview)
 - [Management](https://github.com/Zeroknights16/Ice-Dev-Server-Bot-V2/blob/main/README.md#features-overview)
 - [Giveaways](https://github.com/Zeroknights16/Ice-Dev-Server-Bot-V2/blob/main/README.md#features-overview)
@@ -145,16 +145,20 @@ Commands can be configured like explained above. ([here](https://github.com/Zero
 
 <h3>Available Commands:</h3>
 
-- **ban [@User] <Reason>**
-- **kick [@User] <Reason>**
-- **lock <#Channel>**
-- **mute [@User] <Reason>**
-- **purge [Amount]**
-- **slowmode [Seconds] <#Channel>**
-- **tempban [@User] [Duration] <Reason**
-- **tempmute [@User] [Duration] <Reason**
-- **unban [ID]**
-- **unlock <#Channel>**
-- **unmute [@User] <Reason>**
-- **unwarn [@User]**
-- **warn [@User] <Reason>**
+- **ask [Question]**
+- **bird**
+- **dicksize [@User]**
+- **dog**
+- **fact**
+- **iq <@User>**
+- **joke**
+- **meme**
+- **nuke**
+- **pickupline**
+- **reverse [Message]**
+- **rip [@User]**
+- **roll**
+- **shit [@User]**
+- **trash [@User]**
+- **wasted [@User]**
+- **weather [City]**
