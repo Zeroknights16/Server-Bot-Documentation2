@@ -68,6 +68,7 @@ general:
   
 <h2>Tickets</h2>
 
+  
 <h3>Available Commands:</h3>
   
 - **add [@User]**
