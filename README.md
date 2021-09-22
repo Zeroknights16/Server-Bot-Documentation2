@@ -88,17 +88,17 @@ general:
 tickets:
   options:
     role_advantage:
-      enabled: true
-      advantage_role_id: "804354029076348959"
-      mention_role_id: "804354029076348959"
-    mention_support_role: true
-    mention_senior_staff_role: true
-    ticket_create_cooldown: 10
+      enabled: true #Either if this feature should be enabled or disabled.
+      advantage_role_id: "804354029076348959" #If it's enabled the bot will check if the ticket creator got this role (e.g. booster role)
+      mention_role_id: "804354029076348959" #The bot will mention this role if the ticket creator inherits the role above. (=> faster support for server booster)
+    mention_support_role: true #Either if the support role should be @ in new tickets
+    mention_senior_staff_role: true #Either if the support role should be @ in new tickets
+    ticket_create_cooldown: 10 #Ticket creation cooldown per option in minutes
     ticket_create_options:
       factions:
-        enabled: true
-        category_id: "833732233021751306"
+        enabled: true #Either if this ticket option should be enabled or not
+        category_id: "833732233021751306" #Category ID of this ticket type
         permissions:
-          support: true
-          senior_staff: true
+          support: true #Either if users with the support role should be able to see tickets of this type or not
+          senior_staff: true #Either if users with the senior staff role should be able to see tickets of this type or not
 ```
