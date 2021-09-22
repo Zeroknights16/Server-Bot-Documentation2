@@ -134,3 +134,5 @@ Commands can be configured like explained above. ([here](https://github.com/Zero
 <h3>Configurating:</h3>
 
 Commands can be configured like explained above. ([here](https://github.com/Zeroknights16/Ice-Dev-Server-Bot-V2/blob/main/README.md#configurating))
+
+<h3>Showcase:</h3>
