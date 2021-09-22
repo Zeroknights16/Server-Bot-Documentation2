@@ -41,7 +41,7 @@ Ice Server Bot have an amount of commands & features for different uses. At here
 
 <h3>Configurating:</h3>
   
-![configurating1](https://user-images.githubusercontent.com/73501749/134250196-28c099c8-4aec-42b3-8155-a9b339076632.png)
+![de8375a01bd0471b4a69c8d229c5095a](https://user-images.githubusercontent.com/73501749/134370218-6c3a694c-44c6-4833-b5ca-491977ab171a.png)
 
 ```yaml
 general:   
