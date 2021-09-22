@@ -282,3 +282,4 @@ logs: #Either if a event or command should be logged or not
 <h3>Showcase:</h3>
 
 ![5cb374f927cf50c152e894c6a37834ba](https://user-images.githubusercontent.com/73501749/134397813-958c899b-fc91-4ac7-92fe-e4ca94781437.png)
+![ea27c43720424a0c4e1381eb9ecf3b24](https://user-images.githubusercontent.com/73501749/134398030-56ef1013-4c45-466e-869b-c46374884fc6.png)
