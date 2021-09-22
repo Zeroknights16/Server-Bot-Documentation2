@@ -177,23 +177,9 @@ Commands can be configured like explained above. ([here](https://github.com/Zero
 
 <h3>Available Commands:</h3>
 
-- **ask [Question]**
-- **bird**
-- **dicksize [@User]**
-- **dog**
-- **fact**
-- **iq <@User>**
-- **joke**
-- **meme**
-- **nuke**
-- **pickupline**
-- **reverse [Message]**
-- **rip [@User]**
-- **roll**
-- **shit [@User]**
-- **trash [@User]**
-- **wasted [@User]**
-- **weather [City]**
+- **suggest [Suggestion]**
+- **approve [ID] <Comment>**
+- **deny [ID] <Comment>**
 
 <h3>Configurating:</h3>
 
