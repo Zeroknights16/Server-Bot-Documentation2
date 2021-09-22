@@ -445,7 +445,3 @@ Commands can be configured like explained above. ([here](https://github.com/Zero
 N/A
 
 <h3>Showcase:</h3>
-
-![6d47d61a7737466e1285e1a72d39936b](https://user-images.githubusercontent.com/73501749/134407184-ea32c01f-89a4-416e-8715-c9372e5dfc8a.png)
-![952ffe1de67a84221bfc29078cf2dba4](https://user-images.githubusercontent.com/73501749/134407310-15c6c33d-c1c4-4de6-b6b8-6217ea555e90.png)
-![4ee4a43df93cf3192930333c79996013](https://user-images.githubusercontent.com/73501749/134407410-e0e3d389-47bd-4cfd-98e5-82f854dde0c9.png)
