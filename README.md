@@ -298,18 +298,18 @@ N/A
 auto_mod:
   options:
     links:
-      enabled: true
-      blacklisted_links:
+      enabled: true #Either if this option is enabled or not
+      blacklisted_links: #List of links that should be deleted
         - "discord.gg"
         - "https://www.youtube.com/"
-      whitelisted_channels:
+      whitelisted_channels: #List of channel id's that should not be checked by the bot
         - "804354133124448286"
         - "804354133124448286"
-      tickets_bypass: true
+      tickets_bypass: true #Either if ticket channels should be checked or not
       role_bypass:
-        enabled: true
-        role_id: "804354021481381909"
-      punishment:
+        enabled: true #Either if this option is enabled or not
+        role_id: "804354021481381909" #Role ID that bypass the auto mod
+      punishment: #Punishment for sending a blacklisted link
         warning: true
         mute:
           enabled: false
@@ -320,14 +320,14 @@ auto_mod:
           permanent: false
           duration: ""
     words:
-      enabled: true
-      blacklisted_words:
+      enabled: true #Either if this option is enabled or not
+      blacklisted_words: #List of blacklisted words
         - "nigga"
         - "nigger"
       role_bypass:
-        enabled: true
-        role_id: "804354021481381909"
-      punishment:
+        enabled: true #Either if this option is enabled or not
+        role_id: "804354021481381909" #Role ID that bypass the auto mod
+      punishment: #Punishment for sending a blacklisted word
         warning: true
         mute:
           enabled: false
@@ -338,12 +338,12 @@ auto_mod:
           permanent: false
           duration: "1h"
     pings:
-      enabled: true
-      max_pings_per_message: 10
+      enabled: true #Either if this option is enabled or not
+      max_pings_per_message: 10 #Maximum pings per message
       role_bypass:
-        enabled: true
-        role_id: "804354021481381909"
-      punishment:
+        enabled: true #Either if this option is enabled or not
+        role_id: "804354021481381909" #Role ID that bypass the auto mod
+      punishment: #Punishment for spam pinging
         warning: true
         mute:
           enabled: false
