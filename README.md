@@ -190,3 +190,17 @@ Commands can be configured like explained above. ([here](https://github.com/Zero
 ![a2c63e140f22e6fc664fcc85c1d55adb](https://user-images.githubusercontent.com/73501749/134395295-1dd64019-82f3-4c41-9727-98192636ba98.png)
 ![cf501939a4621a887135cb94ad736456](https://user-images.githubusercontent.com/73501749/134395356-920fd72e-d73d-4b71-91d3-8dc81862cd73.png)
 ![13b110f2a69c63648b607b00ad7272ba](https://user-images.githubusercontent.com/73501749/134395393-946d2d41-dd9f-4b87-b533-07536ac773e7.png)
+  
+<h2>Management</h2>
+
+<h3>Available Commands:</h3>
+
+- **suggest [Suggestion]**
+- **approve [ID] <Comment>**
+- **deny [ID] <Comment>**
+
+<h3>Configurating:</h3>
+
+Commands can be configured like explained above. ([here](https://github.com/Zeroknights16/Ice-Dev-Server-Bot-V2/blob/main/README.md#configurating))
+
+<h3>Showcase:</h3>
