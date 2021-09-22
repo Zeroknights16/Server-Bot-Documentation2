@@ -81,4 +81,5 @@ general:
 - **unblacklist [@User] <Reason>**
 
 <h3>Configurating:</h3>
-  
+
+![bc5df96783bb24491e60849a21028500](https://user-images.githubusercontent.com/73501749/134371930-b7c2a884-431a-4ee4-8ad6-7173328cb4a0.png)
