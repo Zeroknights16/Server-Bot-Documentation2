@@ -83,3 +83,22 @@ general:
 <h3>Configurating:</h3>
 
 ![bc5df96783bb24491e60849a21028500](https://user-images.githubusercontent.com/73501749/134371930-b7c2a884-431a-4ee4-8ad6-7173328cb4a0.png)
+
+  ```yaml
+tickets:
+  options:
+    role_advantage:
+      enabled: true
+      advantage_role_id: "804354029076348959"
+      mention_role_id: "804354029076348959"
+    mention_support_role: true
+    mention_senior_staff_role: true
+    ticket_create_cooldown: 10
+    ticket_create_options:
+      factions:
+        enabled: true
+        category_id: "833732233021751306"
+        permissions:
+          support: true
+          senior_staff: true
+```
