@@ -195,9 +195,21 @@ Commands can be configured like explained above. ([here](https://github.com/Zero
 
 <h3>Available Commands:</h3>
 
-- **suggest [Suggestion]**
-- **approve [ID] <Comment>**
-- **deny [ID] <Comment>**
+- **accept [@User] [@Role]**
+- **appdeny <@User>**
+- **dbcreate**
+- **demote [@User] [@Role]**
+- **devreport [error]** (In Development!!!)
+- **dm [@User] <Message>**
+- **embed <#Channel> [Title] [Content]**
+- **lookup <@User>**
+- **promote [@User] [@Role]**
+- **reload [Command]**
+- **resign <@User>**
+- **restart**
+- **sendmsg <#Channel> [Content]**
+- **setup [Option]**  (In Development!!!)
+- **verifypanel**
 
 <h3>Configurating:</h3>
 
