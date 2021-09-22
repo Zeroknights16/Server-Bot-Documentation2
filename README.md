@@ -247,20 +247,34 @@ N/A
 <h3>Configurating:</h3>
 
 ```yaml
-general:   
-  commands:
-    botinfo:
-      enabled: true #Every command can be disabled. Put "false" instead of "true" to disable a command.
-      aliases: #Every command can have its own aliases. This command will also be executed if an user type "<prefix>binfo". It can have up to unlimited aliases. It is not recommended to setup more than 2 aliases per command as it makes the bot slow.
-        - "binfo"
-      description: "Displays information about the bot" #Command Description
-      usage: "botinfo" #Command Usage (Not Recommended to edit.)
-      example: "botinfo" #Command Usage Example (Not Recommended to edit.)
-      cooldown: 3 #Command Cooldown (Not recommended to set under 3 seconds.)
-      permission:
-        role_permission: false #Enable if the bot should use roles as permissions instead of permission notes. (Recommended)
-        required_role: "804354021481381909" #If "role_permission" is enabled, the user will need this role or one above to be able to execute this command.
-        permission: "VIEW_CHANNEL" #If "role_permission" is disabled, the user will need this permission note to be able to execute this command.
+logs:
+  events:
+    channel_create: true
+    channel_delete: true
+    user_join: true
+    user_leave: true
+    message_edit: true
+    message_delete: true
+    role_create: true
+    role_delete: true
+  tickets:
+    close: true
+  moderation:
+    warn: true
+    unwarn: true
+    kick: true
+    mute: true
+    tempmute: true
+    unmute: true
+    ban: true
+    tempban: true
+    unban: true
+  applications:
+    accept: true
+    deny: true
+  bot:
+    mute_bypass: true
+    auto_verification: true
 ```
 
 <h3>Showcase:</h3>
