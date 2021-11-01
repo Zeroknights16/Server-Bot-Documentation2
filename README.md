@@ -453,6 +453,11 @@ Commands can be configured like explained above. ([here](https://github.com/Zero
 
 Commands can be configured like explained above. ([here](https://github.com/Zeroknights16/Ice-Dev-Server-Bot-V2/blob/main/README.md#configurating))
 
+<h3>Showcase:</h3>
+
+![a7753a2e2f6a7a3c68a6b6ab7ca70f73](https://user-images.githubusercontent.com/73501749/139646905-762e08ac-15fe-4036-a87f-5615e30c5742.png)
+![5d7b9398863095f9f2707aac4fea2aef](https://user-images.githubusercontent.com/73501749/139647025-3e66d63c-ce27-45d0-8aa3-43050e15e43c.png)
+
 <h2>Other Features</h2>
 
 - **Users who got muted can not bypass the punishment via leaving and joining the guild back.**
