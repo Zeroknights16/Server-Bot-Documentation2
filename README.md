@@ -21,6 +21,7 @@ Ice Server Bot have an amount of commands & features for different uses. At here
 - [Auto Mod](https://github.com/Zeroknights16/Ice-Dev-Server-Bot-V2/blob/main/README.md#auto-mod)
 - [Welcome](https://github.com/Zeroknights16/Ice-Dev-Server-Bot-V2/blob/main/README.md#welcome)
 - [Gamemode Specific](https://github.com/Zeroknights16/Ice-Dev-Server-Bot-V2/blob/main/README.md#gamemode-specific)
+- [Staff Discord]()
 - [Other Features](https://github.com/Zeroknights16/Ice-Dev-Server-Bot-V2/blob/main/README.md#other-features)
 
 <h2>General</h2>
@@ -439,6 +440,9 @@ Commands can be configured like explained above. ([here](https://github.com/Zero
 ![6d47d61a7737466e1285e1a72d39936b](https://user-images.githubusercontent.com/73501749/134407184-ea32c01f-89a4-416e-8715-c9372e5dfc8a.png)
 ![952ffe1de67a84221bfc29078cf2dba4](https://user-images.githubusercontent.com/73501749/134407310-15c6c33d-c1c4-4de6-b6b8-6217ea555e90.png)
 ![4ee4a43df93cf3192930333c79996013](https://user-images.githubusercontent.com/73501749/134407410-e0e3d389-47bd-4cfd-98e5-82f854dde0c9.png)
+
+<h2>Staff Discord</h2>
+
 
 <h2>Other Features</h2>
 
