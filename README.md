@@ -106,7 +106,7 @@ Commands can be configured like explained above. ([here](https://github.com/Zero
 
 <h3>Showcase:</h3>
 
-![dd97bcc1c5d415ed42bd7d5cc16cf042](https://user-images.githubusercontent.com/73501749/134373384-d2cfbb82-ae0a-4475-b39b-6ca1fa7486a4.png)
+![test22222](https://user-images.githubusercontent.com/73501749/139645220-87202596-d428-4159-9fa8-1971d4f6c487.png)
 ![29a5eb6bece9adcc758fa6da7819fe98](https://user-images.githubusercontent.com/73501749/134380096-beafbb87-6e33-473d-a91c-41cf27ee158a.png)
 ![5b16e05559953bc6b9017cf3891d5d51](https://user-images.githubusercontent.com/73501749/134381836-8b1bbae7-bb66-46ac-89f3-6454ea9834e1.png)
 ![b23906dbaaa1971369512d03cd7d0765](https://user-images.githubusercontent.com/73501749/134381893-4e3c55b2-ed6b-4591-86fb-23411f8d984f.png)
