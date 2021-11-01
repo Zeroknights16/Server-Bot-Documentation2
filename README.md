@@ -443,6 +443,12 @@ Commands can be configured like explained above. ([here](https://github.com/Zero
 
 <h2>Staff Discord</h2>
 
+<h3>Available Commands:</h3>
+
+- **staffstrike [@User] <Reason>**
+- **staffvote [Strike/DQ/Appeal] [Name] [Evidence/Banned For] <Reason>**
+
+  
 <h3>Configurating:</h3>
 
 Commands can be configured like explained above. ([here](https://github.com/Zeroknights16/Ice-Dev-Server-Bot-V2/blob/main/README.md#configurating))
