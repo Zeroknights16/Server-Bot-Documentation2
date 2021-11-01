@@ -203,6 +203,7 @@ Commands can be configured like explained above. ([here](https://github.com/Zero
 - **dm [@User] <Message>**
 - **embed <#Channel> [Title] [Content]**
 - **lookup <@User>**
+- **poll [channel] "[title]" "[emojis]" "[options]"**
 - **promote [@User] [@Role]**
 - **reload [Command]**
 - **resign <@User>**
