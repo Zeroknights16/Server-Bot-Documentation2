@@ -42,7 +42,8 @@ Ice Server Bot have an amount of commands & features for different uses. At here
 
 <h3>Configurating:</h3>
   
-![de8375a01bd0471b4a69c8d229c5095a](https://user-images.githubusercontent.com/73501749/134370218-6c3a694c-44c6-4833-b5ca-491977ab171a.png)
+![913cc3a5cc3367772efad195338fdd92](https://user-images.githubusercontent.com/73501749/153496132-5374d160-5647-4280-85bc-aa4304bb3dc3.png)
+![8c2738f0ac588135ae62a1882250c5b8](https://user-images.githubusercontent.com/73501749/153496281-09b0098c-3cce-494b-bba6-604f9d9012c6.png)
 
 ```yaml
 general:   
@@ -55,10 +56,6 @@ general:
       usage: "botinfo" #Command Usage (Not Recommended to edit.)
       example: "botinfo" #Command Usage Example (Not Recommended to edit.)
       cooldown: 3 #Command Cooldown (Not recommended to set under 3 seconds.)
-      permission:
-        role_permission: false #Enable if the bot should use roles as permissions instead of permission notes. (Recommended)
-        required_role: "804354021481381909" #If "role_permission" is enabled, the user will need this role or one above to be able to execute this command.
-        permission: "VIEW_CHANNEL" #If "role_permission" is disabled, the user will need this permission note to be able to execute this command.
 ```
 
 <h3>Showcase:</h3>
