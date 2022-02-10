@@ -263,7 +263,7 @@ N/A
 ![572f96443c9e437270972fbd71b10e82](https://user-images.githubusercontent.com/73501749/134397484-2cc88795-4c13-4aa5-8966-25cd386a305f.png)
 
 ```yaml
-logs: #Either if a event or command should be logged or not
+logs: #Whether if a event or command should be logged or not
   events:
     channel_create: true
     channel_delete: true
