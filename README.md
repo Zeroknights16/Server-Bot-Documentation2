@@ -250,8 +250,8 @@ Commands can be configured like explained above. ([here](https://github.com/Zero
 <h3>Showcase:</h3>
 
 ![618d65f4d4bf1619d352327cbb67f3f8](https://user-images.githubusercontent.com/73501749/134397080-df902f9a-99e1-4bab-8a59-70729fcc1858.png)
-![7ccb5df6dea41b407ea0d28538428e36](https://user-images.githubusercontent.com/73501749/134397091-13655a58-359c-4640-a261-6732bb1c3542.png)
-![ed7bb2f70877ae712983980817ca8a18](https://user-images.githubusercontent.com/73501749/134397100-8123ea46-c3c9-4bd0-9cad-639edd9b2f78.png)
+![64379f25f8bae385c26c0b2aad5b4761](https://user-images.githubusercontent.com/73501749/153498092-c5bc4472-9b75-45c5-9870-d842bf534c90.png)
+
 
 <h2>Logs</h2>
 
