@@ -416,7 +416,7 @@ welcome:
 
 <h3>Configurating:</h3>
 
-![a1714cfb860e4dda1b65067431d47632](https://user-images.githubusercontent.com/73501749/134406811-d2575565-4894-480e-a5b2-6da46305e3c1.png)
+![3085a7d266199032905c35a115f07745](https://user-images.githubusercontent.com/73501749/153498578-9923979d-8e17-4b18-9571-e91cd94b1a3c.png)
 
 ```yaml
 gamemode:
