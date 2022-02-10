@@ -161,18 +161,17 @@ Commands can be configured like explained above. ([here](https://github.com/Zero
 - **dicksize [@User]**
 - **dog**
 - **fact**
-- **iq <@User>**
+- **iq**
 - **joke**
 - **meme**
 - **nuke**
-- **pickupline**
 - **reverse [Message]**
 - **rip [@User]**
 - **roll**
+- **rps**
 - **shit [@User]**
 - **trash [@User]**
 - **wasted [@User]**
-- **weather [City]**
 
 <h3>Configurating:</h3>
 
@@ -183,6 +182,8 @@ Commands can be configured like explained above. ([here](https://github.com/Zero
 ![72ac56506899047ce88aef8944dd1ea3](https://user-images.githubusercontent.com/73501749/134394271-49723321-a89d-44a2-9396-5b9bff3ead8b.png)
 ![261bf110750461d2178144bcd3e704f0](https://user-images.githubusercontent.com/73501749/134394338-e68a349f-2b01-4b6e-b1b3-308e2f69c1fc.png)
 ![ae49bc4ebc84d29f236d18083ffc68bd](https://user-images.githubusercontent.com/73501749/134394441-fc677e62-170b-4d7a-88cc-25d78a75dc3a.png)
+![873893c2a1f8271a10ec323648173102](https://user-images.githubusercontent.com/73501749/153497753-50658b3c-2c0f-41e6-9658-3d0c584c83e8.png)
+
   
 <h2>Suggestions</h2>
 
@@ -206,21 +207,22 @@ Commands can be configured like explained above. ([here](https://github.com/Zero
 
 <h3>Available Commands:</h3>
 
-- **accept [@User] [@Role]**
+- **accept [@User] [<@>Role]**
 - **appdeny <@User>**
 - **dbcreate**
-- **demote [@User] [@Role]**
+- **demote [@User] [<@>Role]**
+- **deny**
 - **devreport [Error]** (In Development!!!)
 - **dm [@User] <Message>**
 - **embed <#Channel> [Title] [Content]**
 - **lookup <@User>**
 - **poll [channel] "[title]" "[emojis]" "[options]"**
-- **promote [@User] [@Role]**
+- **promote [@User] [<@>Role]**
 - **reload [Command]**
 - **resign <@User>**
 - **restart**
 - **sendmsg <#Channel> [Content]**
-- **setup [Option]**  (In Development!!!)
+- **setup [Option]**
 - **verifypanel**
 
 <h3>Configurating:</h3>
