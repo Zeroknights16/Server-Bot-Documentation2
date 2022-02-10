@@ -422,6 +422,7 @@ welcome:
 gamemode:
   options:
     leader_discord:
+      enabled: false
       faction:
         discord_link: "https://discord.gg/"
       skyblock:
@@ -429,21 +430,24 @@ gamemode:
       prison:
         discord_link: "https://discord.gg/"
     strikes:
+      # Syntax: - "<strike>: <value deduction>%"
+      # Example: - "1: 10%"
+      # A Faction will receive a value deduction of 10% when getting the first strike.
       faction:
-        first_value_deduction: 2 #How much strikes do a Faction need to receive their first value deduction
-        strikes_per_step: 2 #How much strikes do a Faction need to get to the next stage
-        value_deduction_per_step: 10 #How much value deduction do a Faction receive after getting to the next stage
-        max_strike_amount: 10 #What's the maximun amount of strikes a Faction can have
+        - "1: 10%"
+        - "3: 20%"
+        - "5: 50%"
+        - "6: 100%"
       skyblock:
-        first_value_deduction: 2
-        strikes_per_step: 2
-        value_deduction_per_step: 10
-        max_strike_amount: 10
+        - "1: 10%"
+        - "3: 20%"
+        - "5: 50%"
+        - "6: 100%"
       prison:
-        first_value_deduction: 2
-        strikes_per_step: 2
-        value_deduction_per_step: 10
-        max_strike_amount: 10
+        - "1: 10%"
+        - "3: 20%"
+        - "5: 50%"
+        - "6: 100%"
 ```
 Commands can be configured like explained above. ([here](https://github.com/Zeroknights16/Ice-Dev-Server-Bot-V2/blob/main/README.md#configurating))
 
