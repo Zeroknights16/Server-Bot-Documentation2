@@ -57,6 +57,13 @@ general:
       example: "botinfo" #Command Usage Example (Not Recommended to edit.)
       cooldown: 3 #Command Cooldown (Not recommended to set under 3 seconds.)
 ```
+```json
+"botinfo": {
+    "role_permission": true, # Whether the user requires a role or permission node to be able to execute this command
+    "role_id": "804354037662220289", # Required Role (everyone who owns this role or one above will be able to execute this command)
+    "permission_node": "VIEW_CHANNEL" # Required permission node
+  },
+```
 
 <h3>Showcase:</h3>
   
