@@ -87,25 +87,31 @@ general:
 
 <h3>Configurating:</h3>
 
-![bc5df96783bb24491e60849a21028500](https://user-images.githubusercontent.com/73501749/134371930-b7c2a884-431a-4ee4-8ad6-7173328cb4a0.png)
+![2aad3e3d0b5c235f185a3fcf2fe25248](https://user-images.githubusercontent.com/73501749/153496784-86bc7566-1a79-4467-8343-e51a3b1ef65f.png)
 
   ```yaml
 tickets:
   options:
     role_advantage:
-      enabled: true #Either if this feature should be enabled or disabled.
-      advantage_role_id: "804354029076348959" #If it's enabled the bot will check if the ticket creator got this role (e.g. booster role)
-      mention_role_id: "804354029076348959" #The bot will mention this role if the ticket creator inherits the role above. (=> faster support for server booster)
-    mention_support_role: true #Either if the support role should be @ in new tickets
-    mention_senior_staff_role: true #Either if the support role should be @ in new tickets
-    ticket_create_cooldown: 10 #Ticket creation cooldown per option in minutes
+      enabled: true
+      advantage_role_id: "878410148874448928" # e.g. Booster Role id
+      mention_role_id: "884573835205148692" # e.g. if the ticket creator boosted the server staff members are getting @ for faster support.
+    mention_support_role: false #only tags in categorys where they have permissions to see it
+    mention_senior_staff_role: false #only tags in categorys where they have permissions to see it
+    cooldown_options: 
+      ticket_create_cooldown: 5 #minutes
+      bypass_role_enabled: true
+      bypass_role_id: "884573835205148692"
+    ticket_creation_message:
+      enabled: true # Whether a message should be send in the ticketpanel channel that his/her ticket was created. (e.g. Hey @Zeroknights, your ticket (ticket#2422) was successfully created.)
+      deletion: 8 # After how many seconds should be the message deleted
     ticket_create_options:
       factions:
-        enabled: true #Either if this ticket option should be enabled or not
-        category_id: "833732233021751306" #Category ID of this ticket type
+        enabled: true
+        category_id: "833732233021751306"
         permissions:
-          support: true #Either if users with the support role should be able to see tickets of this type or not
-          senior_staff: true #Either if users with the senior staff role should be able to see tickets of this type or not
+          support: true
+          senior_staff: true
 ```
 Commands can be configured like explained above. ([here](https://github.com/Zeroknights16/Ice-Dev-Server-Bot-V2/blob/main/README.md#configurating))
 
