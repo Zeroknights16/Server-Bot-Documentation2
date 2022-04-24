@@ -149,7 +149,7 @@
       </ul>
     </li>
     <li>
-      <a href="#error">Errors</a>
+      <a href="#errors">Errors</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
