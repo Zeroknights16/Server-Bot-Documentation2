@@ -986,3 +986,6 @@ Whenever a user joins the bot will send a welcome message. It will also check wh
 ## Developer API
 
 ## Errors
+### Discord API Error
+Discord API Errors usually occurs when the bot doesn't have the permission to perform an action. Please make sure that the bot inherits the ``ADMINISTRATION`` Permission. NOTE: If a user inherits ``ADMINISTRATOR`` permission the nickname cannot be changed.
+If these issues occurs more often create a ticket in our support discord otherwise leave it alone.
