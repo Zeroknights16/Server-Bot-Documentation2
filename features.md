@@ -332,6 +332,81 @@ Displays information about the ``vanity_url`` discord feature.
 /vanity
 ```
 
+> __________________________
+
+<br />
+<a href="https://discord.gg/tsG2ZJW9"></strong></a>
+<br />
+
+> Fun commands
+#### Ac
+Activity Check!
+```
+/ac <User>
+```
+
+#### Ask
+Get a random answer of the bot.
+```
+/ask <Question>
+```
+
+#### Bird
+Displays a random bird picture.
+```
+/bird
+```
+
+#### Dicksize
+Displays an user's dicksize.
+```
+/dicksize [User]
+```
+
+#### Dog
+Displays a random dog picture.
+```
+/dog
+```
+
+#### Fact
+Random fun fact.
+```
+/fact
+```
+
+#### Iq
+IQ Test?!
+```
+/iq
+```
+
+#### Meme
+Random meme.
+```
+/meme
+```
+
+#### Nuke
+Nuke the whole server??
+```
+/nuke
+```
+
+#### Roll
+Roll a dice.
+```
+/roll
+```
+
+#### Rps
+Rock, Paper, Scissors.
+```
+/rps
+```
+![d4e83141b5c9eec20beb8263478f9e19](https://user-images.githubusercontent.com/73501749/164980067-e0dbd468-1f75-456f-b195-8f6fe5383827.png)
+
+
 
 
 
