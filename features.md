@@ -29,6 +29,14 @@
       <a href="#commands">Commands</a>
       <ul>
         <li><a href="#general-configuration">General Configuration</a></li>
+        <ul>
+          <details>
+          <summary>Ticket Commands</summary>
+          <ol>
+            <li><a href="#add">Add</a></li>
+          </ol>
+          </details>
+         </ul>
       </ul>
     </li>
     <li>
