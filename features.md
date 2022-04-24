@@ -777,6 +777,17 @@ Sends the verification panel. In dms or guild channel using panel.
 
 
 ## Features
+### DB Cleanup
+#### Tickets & Applications
+Once a user leaves the guild the bot will close any tickets/application the user created and log everything in the specific channel.
+```yaml
+ticket_close_on_leave: {Boolean}
+application_close_on_leave: {Boolean}
+```
+```yaml
+ticket_close_on_leave: true
+application_close_on_leave: true
+```
 
 ## Config.yml
 
