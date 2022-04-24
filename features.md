@@ -194,7 +194,7 @@ Rename a ticket.
 ![497b0acf1fdabe816a3cd40f1b6f6b8b](https://user-images.githubusercontent.com/73501749/164978084-98e4e41f-8828-4535-af04-8bd74618cb5d.png)
 
 #### Ticketpanel
-Sends the ticketpanel.
+Sends the ticketpanel. Fully configurable.
 ```
 /ticketpanel
 ```
@@ -206,6 +206,13 @@ Displays leaderboard of closed & opened tickets.
 /tleaderboard <closed/opened>
 ```
 ![077eb40839b968e522ee5f300bb4b2ee](https://user-images.githubusercontent.com/73501749/164978193-a83d18d7-5ca7-4c58-a5f1-d4d786d9eed3.png)
+
+#### Unblacklist
+Unblacklist an user from the ticket system. He will be able to create tickets again.
+```
+/unblacklist <User> [Reason]
+```
+![88f7692c4c7789b7ea2cb252b992af35](https://user-images.githubusercontent.com/73501749/164978285-07f3aec3-5370-41bb-8858-c4331d421ce5.png)
 
 
 
