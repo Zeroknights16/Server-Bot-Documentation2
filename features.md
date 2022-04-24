@@ -143,6 +143,7 @@ If you want to configure the messages the bot sends once a command is executed o
 > If you are unsure how it will looks like refer to [this](https://autocode.com/tools/discord/embed-builder/) website.
 
 ### Command Usage
+> Ticket commands
 #### Accept
 Accept a discord application. The bot will close the application ticket, apply the roles, change nickname, post staff movement, and create a log message including transcript. Fully configurable in file ``config.yml``.
 ```
@@ -233,6 +234,9 @@ Unblacklist an user from the ticket system. He will be able to create tickets ag
 ```
 ![88f7692c4c7789b7ea2cb252b992af35](https://user-images.githubusercontent.com/73501749/164978285-07f3aec3-5370-41bb-8858-c4331d421ce5.png)
 
+> General commands
+#### Av
+Displays an user's avatar.
 
 
 
