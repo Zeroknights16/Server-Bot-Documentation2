@@ -144,7 +144,7 @@
     <li>
       <a href="#developer-api">Developer API</a>
       <ul>
-        <li><a href="#commands">Commands</a></li>
+        <li><a href="##commands">Commands</a></li>
         <li><a href="#managers">Managers</a></li>
       </ul>
     </li>
