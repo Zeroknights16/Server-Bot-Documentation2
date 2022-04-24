@@ -52,6 +52,8 @@
 ## Commands
 The bot currently offers more than **80** commands which are all configurable. This section of the server bot's documentation will go through the general configuration first. After the general configuration the doc will go through each command and its specialties.
 
+### General Configuration
+
 ## Features
 
 ## Developer API
