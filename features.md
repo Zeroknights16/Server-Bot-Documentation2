@@ -134,7 +134,11 @@
       <a href="#features">Features</a>
       <ul>
         <li><a href="#db-cleanup">DB Cleanup</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#event-logs">Event Logs</a></li>
+        <li><a href="#alt-detection">Alt Detection</a></li>
+        <li><a href="#application">Application</a></li>
+        <li><a href="#auto-moderation">Auto Moderation</a></li>
+        <li><a href="#welcome">Welcome</a></li>
       </ul>
     </li>
     <li>
