@@ -6,7 +6,7 @@
     <img src="images/e9290f3ece1ec3239eb2c32b74675a25.webp" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Ice Dev | Server Bot v2</h3>
+  <h3 align="center">Server Bot v2 | Documentation</h3>
 
   <p align="center">
     An awesome Discord Bot for Faction, Skyblock & Prison server!
@@ -22,8 +22,6 @@
 </div>
 
 
-
-<!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -50,10 +48,6 @@
 </details>
 
 
-
-<!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 
