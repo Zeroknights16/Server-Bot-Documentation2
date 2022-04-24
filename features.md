@@ -986,6 +986,15 @@ Whenever a user joins the bot will send a welcome message. It will also check wh
 ## Developer API
 
 ## Errors
+![90a7b4e6c616d6a5716502fcafce69f9](https://user-images.githubusercontent.com/73501749/164983955-918835a4-c646-4419-959a-5ed8c21d78d0.png)
+
 ### Discord API Error
 Discord API Errors usually occurs when the bot doesn't have the permission to perform an action. Please make sure that the bot inherits the ``ADMINISTRATION`` Permission. NOTE: If a user inherits ``ADMINISTRATOR`` permission the nickname cannot be changed.
 If these issues occurs more often create a ticket in our support discord otherwise leave it alone.
+
+### Bot Error
+If the Error ``type`` is **critical** please make sure to open a support ticket as soon as possible. As being said in the embed our system automatically reports any issues that occured however we may need more details when the error is critical.
+
+### Console Error
+Any errors are getting logged in the console. Every information that is needed to fix a bug can be found in console.
+![d0076e37cca08c4fe692f28ad59a2953](https://user-images.githubusercontent.com/73501749/164984094-b434029a-10ca-46f6-8717-3e3c26bb8307.png)
