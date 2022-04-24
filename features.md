@@ -47,6 +47,10 @@
             <li><a href="#tleaderboard">Tleaderboard</a></li>
             <li><a href="#unblacklist">Unblacklist</a></li>
           </details>
+          <details>
+          <summary>General Commands</summary>
+            <li><a href="#av">Av</a></li>
+          </details>
          </ul>
       </ul>
     </li>
@@ -233,6 +237,12 @@ Unblacklist an user from the ticket system. He will be able to create tickets ag
 /unblacklist <User> [Reason]
 ```
 ![88f7692c4c7789b7ea2cb252b992af35](https://user-images.githubusercontent.com/73501749/164978285-07f3aec3-5370-41bb-8858-c4331d421ce5.png)
+
+> __________________________
+
+<br />
+<a href="https://discord.gg/tsG2ZJW9"></strong></a>
+<br />
 
 > General commands
 #### Av
