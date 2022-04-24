@@ -94,6 +94,11 @@ Sometimes the command requires a specific channel and/or role to work. In this c
 ```
 * **ID:** Channel/Role ID of the specific type. **NOTE:** Use ``null`` if the channel/role is not required for your server's specific needs. 
 
+<br />
+<a href="https://discord.gg/tsG2ZJW9"></strong></a>
+<br />
+
+If you want to configure the messages the bot sends once a command is executed open file ``lang.yml``.
 ## Features
 
 ## Developer API
