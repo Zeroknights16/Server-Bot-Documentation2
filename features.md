@@ -651,7 +651,95 @@ Displays information about a certain user.
 ```
 ![db6843b155a047e9d62b7377d39556b2](https://user-images.githubusercontent.com/73501749/164981962-1a0884dd-a739-42c8-9fa6-eabdc29a8b70.png)
 
+#### Playingadd 
+Add an user to the playing list.
+```
+/playingadd <gamemode> <teamName>
+```
+![7d00e0aaca8f69e18cb962811ff56a28](https://user-images.githubusercontent.com/73501749/164982008-fc39229e-107b-46e6-af8f-fd1a72b52b91.png)
 
+#### Playingclear
+Clears the playing list.
+```
+/playingclear <gamemode>
+```
+
+#### Playinglist
+Sends the playing list.
+```
+/playinglist <gamemode> <channel>
+```
+
+#### Playingremove 
+Remove a team of the playing list.
+```
+/playingremove <gamemode> <team>
+```
+
+#### Promote
+Promote a staff member.
+```
+/promote <User> <Role>
+```
+![f122236cf99126ec93d071612613117e](https://user-images.githubusercontent.com/73501749/164982075-5f717cba-5699-415e-9207-454cc50aac39.png)
+
+
+#### Reactionpanel
+Creates a reactionpanel.
+```
+/reactionpanel <channel> <messageID> <Options>
+```
+
+#### Reload
+Reload a command. Not Recommended!
+```
+/reload <command>
+```
+
+#### Restart
+Restart the bot. 
+```
+/restart
+```
+
+#### Sdeny
+Deny a suggestion.
+```
+/sdeny <SuggestionID> <Reason>
+```
+![592e18104bf036b842b1ab130339e03f](https://user-images.githubusercontent.com/73501749/164982207-715bba8b-d9de-45ef-a98f-c86f2e8ea106.png)
+
+#### Sendmsg
+Send a message with the bot
+```
+/sendmsg <Channel> <Message>
+```
+
+#### Setup
+Refers to this documentation.
+```
+/setup
+```
+
+#### Strike
+Strike a team.
+```
+/strike <gamemode> <team> <strikeAmount> <reason>
+```
+![3019d6365badaf1d9844af1e6ad724f0](https://user-images.githubusercontent.com/73501749/164982316-461bde60-d401-4592-a390-f8344c9d5a49.png)
+
+#### Strikeset
+Set the amount of strikes a team received
+```
+/strikeset <gamemode> <team> <strikes>
+```
+
+#### Verifypanel
+Sends the verification panel. In dms or guild channel using panel.
+```
+/verifypanel
+```
+![3a5f6cad43c07e8f7442c90fb32a5d72](https://user-images.githubusercontent.com/73501749/164982384-d643e593-e845-42bb-84e4-f09b4a870f1e.png)
 
 
 
