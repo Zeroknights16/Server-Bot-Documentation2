@@ -94,6 +94,39 @@
             <li><a href="#warn">Warn</a></li>
             <li><a href="#warnhistory">Warnhistory</a></li>
           </details>
+          <details>
+          <summary>Management Commands</summary>
+            <li><a href="#approve">Approve</a></li>
+            <li><a href="#booster">Booster</a></li>
+            <li><a href="#bundle">Bundle</a></li>
+            <li><a href="#changelog">Changelog</a></li>
+            <li><a href="#clearbundle">Clearbundle</a></li>
+            <li><a href="#clearstrike">Clearstrike</a></li>
+            <li><a href="#dbcreate">Dbcreate</a></li>
+            <li><a href="#demote">Demote</a></li>
+            <li><a href="#embed">Embed</a></li>
+            <li><a href="#gcreate">Gcreate</a></li>
+            <li><a href="#gend">Gend</a></li>
+            <li><a href="#greroll">Greroll</a></li>
+            <li><a href="#leader">Leader</a></li>
+            <li><a href="#lockdown">Lockdown</a></li>
+            <li><a href="#lookup">Lookup</a></li>
+            <li><a href="#playingadd">Playingadd</a></li>
+            <li><a href="#playingclear">Playingclear</a></li>
+            <li><a href="#playinglist">Playinglist</a></li>
+            <li><a href="#playingremove">Playingremove</a></li>
+            <li><a href="#promote">Promote</a></li>
+            <li><a href="#reactionpanel">Reactionpanel</a></li>
+            <li><a href="#reload">Reload</a></li>
+            <li><a href="#resign">Resign</a></li>
+            <li><a href="#restart">Restart</a></li>
+            <li><a href="#sdeny">Sdeny</a></li>
+            <li><a href="#sendmsg">Sendmsg</a></li>
+            <li><a href="#setup">Setup</a></li>
+            <li><a href="#strike">Strike</a></li>
+            <li><a href="#strikeset">Strikeset</a></li>
+            <li><a href="#verifypanel">Verifypanel</a></li>
+          </details>
          </ul>
       </ul>
     </li>
