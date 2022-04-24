@@ -133,7 +133,7 @@
     <li>
       <a href="#features">Features</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#db-cleanup">DB Cleanup</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -971,8 +971,6 @@ Whenever a user joins the bot will send a welcome message. It will also check wh
 ![ae1c6640da39d602f5475d544fd9ee63](https://user-images.githubusercontent.com/73501749/164983551-08a25998-507a-44c6-b3d8-268b17efd756.png)
 
 > A few more features are coming soon!
-
-## Config.yml
 
 ## Developer API
 
