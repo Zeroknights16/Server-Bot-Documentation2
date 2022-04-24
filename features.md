@@ -99,6 +99,23 @@ Sometimes the command requires a specific channel and/or role to work. In this c
 <br />
 
 If you want to configure the messages the bot sends once a command is executed open file ``lang.yml``.
+> lang.yml
+```yaml
+# Placeholder - ...
+<name>:
+    title: {String}
+    color: {String}
+    description: {String}
+    timestamp: {Boolean}
+```
+```yaml
+# Placeholder - %ping%
+  ping:
+    title: ""
+    color: "#00FF00"
+    description: "``✅`` **Bot Latency:** ``%ping%``ms"
+    timestamp: false
+```
 ## Features
 
 ## Developer API
