@@ -116,6 +116,10 @@ If you want to configure the messages the bot sends once a command is executed o
     description: "``✅`` **Bot Latency:** ``%ping%``ms"
     timestamp: false
 ```
+* **Title:** Title of the embed.
+* **Color:** Color of the embed.
+* **Description:** Description of the embed
+* **Timestamp:** Whether timestamp should be displayed
 ## Features
 
 ## Developer API
