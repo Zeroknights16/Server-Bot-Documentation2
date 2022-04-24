@@ -62,6 +62,20 @@
             <li><a href="#uptime">Uptime</a></li>
             <li><a href="#vanity">Vanity</a></li>
           </details>
+          <details>
+          <summary>Fun Commands</summary>
+            <li><a href="#ac">Ac</a></li>
+            <li><a href="#ask">Ask</a></li>
+            <li><a href="#bird">Bird</a></li>
+            <li><a href="#dicksize">Dicksize</a></li>
+            <li><a href="#dog">Dog</a></li>
+            <li><a href="#fact">Fact</a></li>
+            <li><a href="#iq">Iq</a></li>
+            <li><a href="#meme">Meme</a></li>
+            <li><a href="#nuke">Nuke</a></li>
+            <li><a href="#roll">Roll</a></li>
+            <li><a href="#rps">Rps</a></li>
+          </details>
          </ul>
       </ul>
     </li>
