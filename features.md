@@ -145,6 +145,13 @@ Blacklist an user from the ticket system. The user will no longer be able to cre
 ```
 ![200d3456da52f7b263083ac18d76c699](https://user-images.githubusercontent.com/73501749/164977708-076b6638-d896-420f-b55e-78e5d0273a80.png)
 
+#### Close
+Close a ticket. A log message & transcript file will be sent in the configured channel.
+```
+/close [Reason]
+```
+![30f551b84f5a57c387ee90270a77744b](https://user-images.githubusercontent.com/73501749/164977780-96ab6cf4-be7b-4e3d-b54a-b7198844bacc.png)
+
 
 ## Features
 
