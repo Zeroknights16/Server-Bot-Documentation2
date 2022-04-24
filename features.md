@@ -76,6 +76,24 @@
             <li><a href="#roll">Roll</a></li>
             <li><a href="#rps">Rps</a></li>
           </details>
+          <details>
+          <summary>Moderation Commands</summary>
+            <li><a href="#ban">Ban</a></li>
+            <li><a href="#dm">Dm</a></li>
+            <li><a href="#kick">Kick</a></li>
+            <li><a href="#lock">Lock</a></li>
+            <li><a href="#mute">Mute</a></li>
+            <li><a href="#purge">Purge</a></li>
+            <li><a href="#slowmode">Slowmode</a></li>
+            <li><a href="#tempban">Tempban</a></li>
+            <li><a href="#tempmute">Tempmute</a></li>
+            <li><a href="#unban">Unban</a></li>
+            <li><a href="#unlock">Unlock</a></li>
+            <li><a href="#unmute">Unmute</a></li>
+            <li><a href="#unwarn">Unwarn</a></li>
+            <li><a href="#warn">Warn</a></li>
+            <li><a href="#warnhistory">Warnhistory</a></li>
+          </details>
          </ul>
       </ul>
     </li>
