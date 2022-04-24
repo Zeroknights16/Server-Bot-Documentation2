@@ -547,8 +547,109 @@ Displays warn history of an user.
 ```
 ![440567181e6c220b26bc6ed37d89696d](https://user-images.githubusercontent.com/73501749/164981046-dab92c23-7bf8-42e6-bf18-cd32e6a677b2.png)
 
+> __________________________
 
+<br />
+<a href="https://discord.gg/tsG2ZJW9"></strong></a>
+<br />
 
+> Management commands
+#### Approve
+Approve a suggestion.
+```
+/approve <SuggestionID> [Reason]
+```
+![48bf9c17437d7c1e76fdf652f0554d66](https://user-images.githubusercontent.com/73501749/164981400-9365516f-1780-412d-81f2-1b6ca2d09fcf.png)
+
+#### Booster
+Manage Booster bundle system.
+```
+/booster <add/remove/info> <user> <realm> <ign>
+```
+![4f9a8517d2433a7e363fa4e0ed4a7569](https://user-images.githubusercontent.com/73501749/164981497-ede1f872-0e11-4640-bd95-bda98ef07182.png)
+
+#### Bundle
+Manage Team bundle system.
+```
+/booster <add/remove/info> <user> <realm> <ign>
+```
+
+#### Changelog
+Submit a new changelog.
+```
+/changelog <changes> [channel]
+```
+
+#### Clearbundle
+Clear bundle data.
+```
+/clearbundle <team/booster/all> <realm>
+```
+
+#### Clearstrike
+Clear strike data.
+```
+/clearstrike <gamemode>
+```
+
+#### Dbcreate
+Creates required database tables.
+```
+/dbcreate
+```
+
+#### Demote
+Demote a staff member.
+```
+/demote <User> <Role>
+```
+![4ddb82f23e846470315aad43417df4b2](https://user-images.githubusercontent.com/73501749/164981690-3f7f312f-d43b-4b7f-94b2-f9586c4a0711.png)
+
+#### Embed
+Embed manager.
+```
+/embed <Title> <Description> [Channel]
+```
+
+#### Gcreate
+Create a new giveaway.
+```
+/gcreate <Channel> <Duration> <Winners> <Prize>
+```
+![ea1968fcb9e4fb5a1966d36c3638adb1](https://user-images.githubusercontent.com/73501749/164981790-8529f80b-c8cf-406a-ab75-cf4dd16d02c4.png)
+
+#### Gend
+End a giveaway.
+```
+/gend <MessageID>
+```
+![b06c99fce85b164f0b47423b555a38f3](https://user-images.githubusercontent.com/73501749/164981834-ea801f31-d0cf-47c7-88a3-b2453228e25e.png)
+
+#### Greroll
+Reroll a giveaway.
+```
+/greroll <MessageID>
+```
+
+#### leader
+Applies the leader role.
+```
+/leader <gamemode> <user> <teamName>
+```
+![924c8c691f5b4fa8837b8330c0c42861](https://user-images.githubusercontent.com/73501749/164981910-af00f76b-67c7-4c5c-bf49-788e0bc589e9.png)
+
+#### Lockdown
+Enables/Disables lockdown mode. No commands/events/features can be executed.
+```
+/lockdown
+```
+
+#### Lookup
+Displays information about a certain user.
+```
+/lookup [User]
+```
+![db6843b155a047e9d62b7377d39556b2](https://user-images.githubusercontent.com/73501749/164981962-1a0884dd-a739-42c8-9fa6-eabdc29a8b70.png)
 
 
 
