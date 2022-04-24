@@ -85,6 +85,14 @@ Sometimes the command requires a specific channel and/or role to work. In this c
 "server_stats": "965719204319875082"
 ```
 
+> roles.json
+```json
+"role_name": {String/null}
+```
+```json
+"muted": "965719169406492712"
+```
+
 ## Features
 
 ## Developer API
