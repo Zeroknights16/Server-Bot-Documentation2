@@ -151,7 +151,7 @@
     <li>
       <a href="#errors">Errors</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#discord-api-error">Discord API Error</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
