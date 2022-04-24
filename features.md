@@ -120,6 +120,8 @@ If you want to configure the messages the bot sends once a command is executed o
 * **Color:** Color of the embed.
 * **Description:** Description of the embed
 * **Timestamp:** Whether timestamp should be displayed
+
+If you are unsure how it will looks like refer to [this](https://autocode.com/tools/discord/embed-builder/) website.
 ## Features
 
 ## Developer API
