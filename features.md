@@ -902,6 +902,75 @@ questions:
 ![31f2e96419f2a4b5ab007ee8c3b7790e](https://user-images.githubusercontent.com/73501749/164983273-807f334b-033a-462d-ab51-f39205cf4891.png)
 ![2e689dba3c686601c3f42e06c7525f98](https://user-images.githubusercontent.com/73501749/164983274-d27f2137-d67e-4d85-a534-d262df8ee43c.png)
 
+### Auto Moderation
+Automatic Moderation System. Keep your discord save from spam pinger, insults, advertisements and much more!
+
+```yaml
+  links:
+      enabled: {Boolean}
+      blacklisted_links: {Array}
+      whitelist_gifs: {Boolean}
+      whitelisted_channels: {Array}
+      tickets_bypass: {Boolean}
+      role_bypass:
+        enabled: {Boolean}
+        role_id: {String}
+      punishment:
+        warning: {Boolean}
+        mute:
+          enabled: {Boolean}
+          permanent: {Boolean}
+          duration: {String}
+        ban:
+          enabled: {Boolean}
+          permanent: {Boolean}
+          duration: {String}
+```
+```yaml
+  links:
+      enabled: true # Whether this mode should be enabled
+      blacklisted_links: # Messages that includes these characters will be deleted and a punishment executed
+        - "discord.gg"
+        - "https"
+      whitelist_gifs: true # Whether gifs should not be deleted
+      whitelisted_channels: # Messages that were sent in one of these channels will be not checked. (e.g. recruitement channel)
+        - "804354114451800064"
+      tickets_bypass: true # Whether messages should be checked that were sent in ticket channels
+      role_bypass:
+        enabled: true # Whether the messages of users who do not inherit the role (or one above; configured below) should be checked
+        role_id: "884573835205148692"
+      punishment:
+        warning: true # Whether the user should be warned
+        mute:
+          enabled: false # Whether the user should be muted
+          permanent: false # Whether the user should be permanently muted
+          duration: "1h" # Duration of temporary mute
+        ban:
+          enabled: false # Whether the user should be banned
+          permanent: false # Whether the user should be permanently banned
+          duration: "1h" # Duration of temporary ban
+```
+> Note: download the config.yml file to see all configuration options.
+
+### Welcome
+Whenever a user joins the bot will send a welcome message. It will also check whether the user attempted to bypass a mute/ban punishment. When enabled users who rejoin the guild will also automatically verified if they verified themself before leaving the guild.
+```yaml
+  auto_verification: {Boolean}
+  welcome:
+      sendEmbed: {Boolean}
+  auto_mute: {Boolean}
+  auto_ban: {Boolean}
+```
+```yaml
+  auto_verification: true # Whether users should be auto verified if they leave and join the guild after a successfull verification.
+  welcome:
+      sendEmbed: true
+  auto_mute: true # Whether users should be muted again after they leave and join the guild to bypass the mute punishment
+  auto_ban: true
+```
+![ae1c6640da39d602f5475d544fd9ee63](https://user-images.githubusercontent.com/73501749/164983551-08a25998-507a-44c6-b3d8-268b17efd756.png)
+
+> A few more features are coming soon!
 
 ## Config.yml
 
