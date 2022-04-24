@@ -72,6 +72,21 @@ commands.json
 * **Permission:** The role which is required to be able to execute the command. __NOTE:__ You do not have to inherit the role itself to be able to execute the command. The bot will check if the user inherits the configured role or one **above**.
 * **Cooldown:** Cooldown of the command in seconds. **NOTE:** ``{Integer}`` >= 3, otherwise it will set the cooldown to the default value 3.
 
+<br />
+<a href="https://discord.gg/tsG2ZJW9"></strong></a>
+<br />
+
+Sometimes the command requires a specific channel and/or role to work. In this case open file ``channels.json`` and/or ``roles.json``.
+channels.json
+```json
+"channel_name": {String/null}
+```
+```json
+"server_stats": "965719204319875082"
+```
+
 ## Features
 
 ## Developer API
+
+## Errors
