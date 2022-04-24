@@ -886,7 +886,21 @@ alts:
     mute: false # Whether the user should be muted
     ban: false # Whether the user should be banned
 ```
+![065007016fd3bf794c093974b35e7c76](https://user-images.githubusercontent.com/73501749/164983157-7502f2e2-9822-4372-b0a0-d7b1bfbbbffe.png)
 
+### Application
+Step by step discord application. Fully configurable.
+```yaml
+questions: {Array}
+```
+```yaml
+questions:
+  - "Question 1"
+  - "Question 2"
+  - "Question 3"
+```
+![31f2e96419f2a4b5ab007ee8c3b7790e](https://user-images.githubusercontent.com/73501749/164983273-807f334b-033a-462d-ab51-f39205cf4891.png)
+![2e689dba3c686601c3f42e06c7525f98](https://user-images.githubusercontent.com/73501749/164983274-d27f2137-d67e-4d85-a534-d262df8ee43c.png)
 
 
 ## Config.yml
