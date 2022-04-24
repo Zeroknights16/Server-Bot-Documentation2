@@ -34,7 +34,19 @@
           <details>
           <summary>Ticket Commands</summary>
           <ol>
+            <li><a href="#accept">Accept</a></li>
             <li><a href="#add">Add</a></li>
+            <li><a href="#blacklist">Blacklist</a></li>
+            <li><a href="#close">Close</a></li>
+            <li><a href="#deny">Deny</a></li>
+            <li><a href="#move">Move</a></li>
+            <li><a href="#new">New</a></li>
+            <li><a href="#private">Private</a></li>
+            <li><a href="#remove">Remove</a></li>
+            <li><a href="#rename">Rename</a></li>
+            <li><a href="#ticketpanel">Ticketpanel</a></li>
+            <li><a href="#tleaderboard">Tleaderboard</a></li>
+            <li><a href="#unblacklist">Unblacklist</a></li>
           </ol>
           </details>
          </ul>
