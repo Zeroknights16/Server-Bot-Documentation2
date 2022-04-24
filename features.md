@@ -70,7 +70,7 @@ commands.json
 ```
 * **Enabled:** Whether the command should be loaded
 * **Permission:** The role which is required to be able to execute the command. __NOTE:__ You do not have to inherit the role itself to be able to execute the command. The bot will check if the user inherits the configured role or one **above**.
-* **Cooldown:** Cooldown of the command. **NOTE:** {Integer} >= 3, otherwise it will set the cooldown to the default value 3.
+* **Cooldown:** Cooldown of the command. **NOTE:** ``{Integer}`` >= 3, otherwise it will set the cooldown to the default value 3.
 
 ## Features
 
