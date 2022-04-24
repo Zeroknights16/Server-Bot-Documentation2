@@ -61,6 +61,13 @@ commands.json
     "cooldown": {Integer}
 },
 ```
+```json
+"accept": {
+    "enabled": true,
+    "permission": "965719153833041920",
+    "cooldown": 2
+},
+```
 
 ## Features
 
