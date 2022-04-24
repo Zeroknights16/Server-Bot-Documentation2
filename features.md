@@ -129,6 +129,7 @@ Accept a discord application. The bot will close the application ticket, apply t
 ```
 /accept <role>
 ```
+![336d750c6d994fb5f6d66b764d3a5a23](https://user-images.githubusercontent.com/73501749/164977490-e104e89e-ef01-466c-a291-f3a8ddb8763c.png)
 
 
 
