@@ -92,6 +92,7 @@ Sometimes the command requires a specific channel and/or role to work. In this c
 ```json
 "muted": "965719169406492712"
 ```
+* **ID:** Channel/Role ID of the specific type. **NOTE:** Use ``null`` if the channel/role is not required for your server's specific needs. 
 
 ## Features
 
