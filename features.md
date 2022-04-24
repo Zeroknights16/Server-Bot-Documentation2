@@ -28,7 +28,7 @@
     <li>
       <a href="#commands">Commands</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#general-configuration">General Configuration</a></li>
       </ul>
     </li>
     <li>
