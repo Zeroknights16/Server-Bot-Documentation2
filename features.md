@@ -50,6 +50,17 @@
           <details>
           <summary>General Commands</summary>
             <li><a href="#av">Av</a></li>
+            <li><a href="#botinfo">Botinfo</a></li>
+            <li><a href="#help">Help</a></li>
+            <li><a href="#info">Info</a></li>
+            <li><a href="#invites">Invites</a></li>
+            <li><a href="#invitetop">Invitetop</a></li>
+            <li><a href="#ip">Ip</a></li>
+            <li><a href="#ping">Ping</a></li>
+            <li><a href="#server">Server</a></li>
+            <li><a href="#suggest">Suggest</a></li>
+            <li><a href="#uptime">Uptime</a></li>
+            <li><a href="#vanity">Vanity</a></li>
           </details>
          </ul>
       </ul>
