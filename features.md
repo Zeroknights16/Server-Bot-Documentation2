@@ -152,8 +152,61 @@ Close a ticket. A log message & transcript file will be sent in the configured c
 ```
 ![30f551b84f5a57c387ee90270a77744b](https://user-images.githubusercontent.com/73501749/164977780-96ab6cf4-be7b-4e3d-b54a-b7198844bacc.png)
 
+#### Deny
+Deny an user's application.
+```
+/deny [Reason]
+```
+![7355ce2f3d706a83fba3583a4d8a398d](https://user-images.githubusercontent.com/73501749/164977893-90e6d728-0c70-49c0-bfa5-7cbd28a465c0.png)
+
+#### Move
+Move a ticket to a different ticket category. 
+```
+/move <Category>
+```
+![09b0b344308573799e62d1245d46090b](https://user-images.githubusercontent.com/73501749/164977960-07b84168-ae57-4be5-a5c8-ff8575a60725.png)
+
+#### New
+Tags the ticketpanel channel.
+```
+/new
+```
+
+#### Private
+Sets the ticket to srstaff/management only. 
+```
+/private [srstaff/management/undo]
+```
+![a14067f797ae1c177033d69aa2b9d927](https://user-images.githubusercontent.com/73501749/164978025-08426300-9fdc-4204-961a-a4bbd2a4002b.png)
+
+#### Remove
+Remove an user from the ticket.
+```
+/remove <User>
+```
+![a1d0bac609468819a5c494906998a6cb](https://user-images.githubusercontent.com/73501749/164978053-8344a96c-df1c-4a00-9ead-028539158106.png)
+
+#### Rename
+Rename a ticket.
+```
+/rename <Name>
+```
+![497b0acf1fdabe816a3cd40f1b6f6b8b](https://user-images.githubusercontent.com/73501749/164978084-98e4e41f-8828-4535-af04-8bd74618cb5d.png)
+
+### Ticketpanel
+Sends the ticketpanel.
+```
+/ticketpanel
+```
+![c9c1e6565675ef115fd1c4488bce775e](https://user-images.githubusercontent.com/73501749/164978109-3715a7f2-2fd2-4ff3-9b99-27185cd5650d.png)
+
+
+
+
 
 ## Features
+
+## Config.yml
 
 ## Developer API
 
