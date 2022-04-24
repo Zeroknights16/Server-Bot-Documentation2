@@ -29,7 +29,7 @@
       <a href="#commands">Commands</a>
       <ul>
         <li><a href="#general-configuration">General Configuration</a></li>
-        <li><a href="command-usage">Command Usage</a></li>
+        <li><a href="#command-usage">Command Usage</a></li>
         <ul>
           <details>
           <summary>Ticket Commands</summary>
