@@ -50,6 +50,7 @@
 
 
 ## Commands
+The bot currently offers more than **80** commands which are all configurable. 
 
 ## Features
 
