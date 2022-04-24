@@ -247,6 +247,80 @@ Unblacklist an user from the ticket system. He will be able to create tickets ag
 > General commands
 #### Av
 Displays an user's avatar.
+```
+/av [User]
+```
+
+#### Botinfo
+Displays information about the bot.
+```
+/botinfo
+```
+
+#### Help
+Displays help page for commands.
+```
+/help
+```
+![d3fdc13e864ac57fcad2c563ed2b3e82](https://user-images.githubusercontent.com/73501749/164979448-aeb63419-08db-4d9c-b764-cdc6ca3887cb.png)
+
+#### Info
+Displays information about a certain user.
+```
+/info [User]
+```
+![f5903ce48318adba7144c9e445efe633](https://user-images.githubusercontent.com/73501749/164979492-bcb3e457-b100-4c20-bb20-371f2d48fab0.png)
+
+#### Invites
+Displays an user's invites.
+```
+/invites [User]
+```
+
+#### Invitetop
+Displays top inviter leaderboard.
+```
+/invitetop
+```
+
+#### Ip
+Displays server's ip.
+```
+/ip
+```
+
+#### Ping
+Displays the bot's latency.
+```
+/ping
+```
+
+#### Server
+Displays information about the guild.
+```
+/server
+```
+![e1b9f3f1c97ede2c7a436e6d8dac4bf1](https://user-images.githubusercontent.com/73501749/164979616-230aef9b-b770-43ad-ab1e-2eab05f3aa1c.png)
+
+#### Suggest
+Submit a suggestion.
+```
+/suggest <Suggestion>
+```
+![3b2ba311ec3a62d0593a1728c3bc1586](https://user-images.githubusercontent.com/73501749/164979650-fb7c2dca-44fa-490e-b8a4-3c91ed5528e5.png)
+
+#### Uptime
+Displays the bot's uptime.
+```
+/uptime
+```
+
+#### Vanity
+Displays information about the ``vanity_url`` discord feature.
+```
+/vanity
+```
+
 
 
 
