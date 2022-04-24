@@ -789,6 +789,82 @@ ticket_close_on_leave: true
 application_close_on_leave: true
 ```
 
+### Event Logs
+Whenever an event gets emited the bot will send a log embed in the specific channel.
+```yaml
+logs:
+  events:
+    channel_create: {Boolean}
+    channel_delete: {Boolean}
+    user_join: {Boolean}
+    user_leave: {Boolean}
+    message_edit: {Boolean}
+    message_delete: {Boolean}
+    role_create: {Boolean}
+    role_delete: {Boolean}
+    thread_create: {Boolean}
+    thread_delete: {Boolean}
+  tickets:
+    close: {Boolean}
+  moderation:
+    warn: {Boolean}
+    unwarn: {Boolean}
+    kick: {Boolean}
+    mute: {Boolean}
+    tempmute: {Boolean}
+    unmute: {Boolean}
+    ban: {Boolean}
+    tempban: {Boolean}
+    unban: {Boolean}
+  applications:
+    accept: {Boolean}
+    deny: {Boolean}
+  bot:
+    lockdown: {Boolean}
+    mute_bypass: {Boolean}
+    ban_bypass: {Boolean}
+    auto_verification: {Boolean}
+    error: {Boolean}
+```
+```yaml
+logs:
+  events:
+    channel_create: true
+    channel_delete: true
+    user_join: true
+    user_leave: true
+    message_edit: true
+    message_delete: true
+    role_create: true
+    role_delete: true
+    thread_create: true
+    thread_delete: true
+  tickets:
+    close: true
+  moderation:
+    warn: true
+    unwarn: true
+    kick: true
+    mute: true
+    tempmute: true
+    unmute: true
+    ban: true
+    tempban: true
+    unban: true
+  applications:
+    accept: true
+    deny: true
+  bot:
+    lockdown: true
+    mute_bypass: true
+    ban_bypass: true
+    auto_verification: true
+    error: true
+```
+![0da20d9bb597dbe1d37b6f2d4b050140](https://user-images.githubusercontent.com/73501749/164982986-c2660dd0-0a45-477f-8486-a2ca00331426.png)
+
+
+
 ## Config.yml
 
 ## Developer API
