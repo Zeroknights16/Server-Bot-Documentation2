@@ -985,6 +985,32 @@ Whenever a user joins the bot will send a welcome message. It will also check wh
 > A few more features are coming soon!
 
 ## Developer API
+### Commands
+You can create and add as much commands as you want. Just execute ``node template.js`` in console and it will generate everything for you. It will be automatically added to the help list once you added and restarted the command.
+
+### Managers
+Available Managers: Util, Module, listener & handler.
+
+**Util:**
+  * Console Logging
+  * MongoDB Management
+  * Config Management
+**Module:**
+  * Moderation Management (ban, mute, ...)
+  * Ticket Management
+**Listener:**
+  * Giveaway
+  * Bundle
+  * Lockdown
+  * Stats
+  * Punishments
+**Handler:**
+  * Event
+  * Log
+  * Commands
+
+Import each file and you will be given access to all methods. As of right now please use an editor like Visual Studio Code to develop any features for the bot. If you hower over the import variable you will see all available methods including their usage & description.
+All methods will be added later once the bot is 100% published.
 
 ## Errors
 ![90a7b4e6c616d6a5716502fcafce69f9](https://user-images.githubusercontent.com/73501749/164983955-918835a4-c646-4419-959a-5ed8c21d78d0.png)
@@ -999,3 +1025,8 @@ If the Error ``type`` is **critical** please make sure to open a support ticket 
 ### Console Error
 Any errors are getting logged in the console. Every information that is needed to fix a bug can be found in console.
 ![d0076e37cca08c4fe692f28ad59a2953](https://user-images.githubusercontent.com/73501749/164984094-b434029a-10ca-46f6-8717-3e3c26bb8307.png)
+
+
+
+### Note
+Please Note that the bot is currently in **private beta**. It cannot be bought.
