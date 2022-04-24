@@ -193,12 +193,19 @@ Rename a ticket.
 ```
 ![497b0acf1fdabe816a3cd40f1b6f6b8b](https://user-images.githubusercontent.com/73501749/164978084-98e4e41f-8828-4535-af04-8bd74618cb5d.png)
 
-### Ticketpanel
+#### Ticketpanel
 Sends the ticketpanel.
 ```
 /ticketpanel
 ```
 ![c9c1e6565675ef115fd1c4488bce775e](https://user-images.githubusercontent.com/73501749/164978109-3715a7f2-2fd2-4ff3-9b99-27185cd5650d.png)
+
+#### Tleaderboard
+Displays leaderboard of closed & opened tickets.
+```
+/tleaderboard <closed/opened>
+```
+![077eb40839b968e522ee5f300bb4b2ee](https://user-images.githubusercontent.com/73501749/164978193-a83d18d7-5ca7-4c58-a5f1-d4d786d9eed3.png)
 
 
 
