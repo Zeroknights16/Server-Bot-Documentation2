@@ -9,7 +9,7 @@
   <h3 align="center">Server Bot v2 | Documentation</h3>
 
   <p align="center">
-    An awesome Discord Bot for Faction, Skyblock & Prison server!
+    An awesome Discord Bot for your Faction, Skyblock & Prison server!
     <br />
     <a href="https://discord.gg/tsG2ZJW9"></strong></a>
     <br />
