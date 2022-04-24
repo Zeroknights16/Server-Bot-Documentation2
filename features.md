@@ -131,6 +131,19 @@ Accept a discord application. The bot will close the application ticket, apply t
 ```
 ![336d750c6d994fb5f6d66b764d3a5a23](https://user-images.githubusercontent.com/73501749/164977490-e104e89e-ef01-466c-a291-f3a8ddb8763c.png)
 
+#### Add
+Add an user to a ticket. 
+```
+/add <User>
+```
+![7cc96c64f4068ef647d22c64c5c3c570](https://user-images.githubusercontent.com/73501749/164977608-24ba80d7-0fcd-4432-9b62-0f51083b1313.png)
+
+#### Blacklist
+Blacklist an user from the ticket system. The user will no longer be able to create a ticket.
+```
+/blacklist <User> [Reason]
+```
+![200d3456da52f7b263083ac18d76c699](https://user-images.githubusercontent.com/73501749/164977708-076b6638-d896-420f-b55e-78e5d0273a80.png)
 
 
 ## Features
