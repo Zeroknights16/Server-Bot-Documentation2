@@ -427,6 +427,110 @@ Rock, Paper, Scissors.
 <br />
 
 > Moderation commands
+#### Ban
+Ban an user from the guild permanently.
+```
+/ban <User> [Reason]
+```
+![575af96113cdcc9f47943d48c90e40e8](https://user-images.githubusercontent.com/73501749/164980416-503f2d76-a680-45fe-869d-85ac248dff9a.png)
+
+#### Dm
+Dm an user from the guild.
+```
+/dm <User> <Message>
+```
+
+#### Kick
+Kick an user from the guild
+```
+/kick <User> [Reason]
+```
+![224615f33768e9ebd7154f937efa828a](https://user-images.githubusercontent.com/73501749/164980465-1d2faf13-d978-4803-9166-1ec1c19eca84.png)
+
+#### Lock
+Lock a channel.
+```
+/lock <Channel>
+```
+![a95e1d6fb7840e3645c27faa65fdb4b0](https://user-images.githubusercontent.com/73501749/164980492-345ae086-532e-46d0-9c88-f5faf9f30cab.png)
+
+#### Mute
+Prevent an user of sending messages in the guild permanently. 
+```
+/mute <User> [Reason]
+```
+![9a9a4455c09bcd59c509bba4afd7f555](https://user-images.githubusercontent.com/73501749/164980551-7f8d053e-b42c-4dd5-9b05-ff415dc9de72.png)
+
+#### Purge
+Clear a specific amount of messages in certain channels
+```
+/purge <Amount>
+```
+
+#### Slowmode
+Enables slowmode in certain channels. Use ``0`` to clear slowmode.
+```
+/slowmode <Seconds>
+```
+
+#### Tempban
+Temporary ban an user from the guild.
+```
+/tempban <User> <Duration> [Reason]
+```
+![3b3ebfe70a9463d73bd7e418d1bbd949](https://user-images.githubusercontent.com/73501749/164980656-6370afb7-2eb8-4882-9031-452bede51a74.png)
+
+#### Tempmute
+Prevent an user of sending messages in the guild temporary.
+```
+/tempmute <User> <Duration> [Reason]
+```
+![b8301a01813ee1909798ac4dac431552](https://user-images.githubusercontent.com/73501749/164980715-67a69c2e-cc4c-4cd7-a11b-2622d17e3895.png)
+
+#### Unban
+Unban an user from the guild.
+```
+/unban <ID>
+```
+![c81287c57d38d9a01e7bdcc5d01a3c32](https://user-images.githubusercontent.com/73501749/164980766-b172eb50-a5df-45be-b6c4-69280b4242a5.png)
+
+#### Unlock
+Unlock a channel.
+```
+/unlock <Channel>
+```
+![29c56d983a6656acbdd95d07d77686a7](https://user-images.githubusercontent.com/73501749/164980809-48fa83b6-be26-4fbf-bdf7-3be4ff326f42.png)
+
+#### Unmute
+Unmute an user from the guild.
+```
+/unmute <User> [Reason]
+```
+![cd6f9f3b2700cef34dff392af1e6f073](https://user-images.githubusercontent.com/73501749/164980844-fe8546c8-febe-4d63-9530-b02add3dacc5.png)
+
+#### Unwarn
+Unwarn an user.
+```
+/unwarn <User> <IDs> [Reason]
+```
+![b3cc00a14b6355661ff5aba764ff9345](https://user-images.githubusercontent.com/73501749/164980890-a00cefad-8e4b-42f5-90a7-1a26fb4597e4.png)
+
+#### Warn
+Warn an user. **Amount:** How many warnings should the user receive for the rule break.
+```
+/warn <User> [Amount] [Reason]
+```
+![a2bfba370496ad55fb4326ffb9fc4308](https://user-images.githubusercontent.com/73501749/164980975-4f70d464-e6d4-4328-8479-92d61e680a87.png)
+
+#### Warnhistory
+Displays warn history of an user.
+```
+/warnhistory <User>
+```
+![440567181e6c220b26bc6ed37d89696d](https://user-images.githubusercontent.com/73501749/164981046-dab92c23-7bf8-42e6-bf18-cd32e6a677b2.png)
+
+
+
 
 
 
