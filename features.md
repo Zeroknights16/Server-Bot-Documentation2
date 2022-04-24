@@ -29,6 +29,7 @@
       <a href="#commands">Commands</a>
       <ul>
         <li><a href="#general-configuration">General Configuration</a></li>
+        <li><a href="Command Usage">General Configuration</a></li>
         <ul>
           <details>
           <summary>Ticket Commands</summary>
@@ -131,7 +132,7 @@ If you want to configure the messages the bot sends once a command is executed o
 
 > If you are unsure how it will looks like refer to [this](https://autocode.com/tools/discord/embed-builder/) website.
 
-### Ticket Commands
+### Command Usage
 #### Accept
 Accept a discord application. The bot will close the application ticket, apply the roles, change nickname, post staff movement, and create a log message including transcript. Fully configurable in file ``config.yml``.
 ```
