@@ -144,8 +144,8 @@
     <li>
       <a href="#developer-api">Developer API</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#commands">Commands</a></li>
+        <li><a href="#managers">Managers</a></li>
       </ul>
     </li>
     <li>
@@ -155,6 +155,9 @@
         <li><a href="#bot-error">Bot Error</a></li>
         <li><a href="#console-error">Console Error</a></li>
       </ul>
+    </li>
+    <li>
+      <a href="#note">Note</a>
     </li>
   </ol>
 </details>
@@ -1028,5 +1031,5 @@ Any errors are getting logged in the console. Every information that is needed t
 
 
 
-### Note
+## Note
 Please Note that the bot is currently in **private beta**. It cannot be bought.
