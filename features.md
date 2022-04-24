@@ -998,15 +998,18 @@ Available Managers: Util, Module, listener & handler.
   * Console Logging
   * MongoDB Management
   * Config Management
+
 **Module:**
   * Moderation Management (ban, mute, ...)
   * Ticket Management
+
 **Listener:**
   * Giveaway
   * Bundle
   * Lockdown
   * Stats
   * Punishments
+
 **Handler:**
   * Event
   * Log
