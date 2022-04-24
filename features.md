@@ -864,6 +864,30 @@ logs:
 ![0da20d9bb597dbe1d37b6f2d4b050140](https://user-images.githubusercontent.com/73501749/164982986-c2660dd0-0a45-477f-8486-a2ca00331426.png)
 
 
+### Alt Detection
+Whenever a user joins the guild the bot will check if the user could be a possible alt account.
+```yaml
+alts:
+  enabled: {Boolean}
+  account_created: {Integer}
+  notification: {Boolean}
+  verification: {Boolean}
+  punishment:
+    mute: {Boolean}
+    ban: {Boolean}
+```
+```yaml
+alts:
+  enabled: true
+  account_created: 60 # How old should be an account atleast be to bypass the punishment below. (days)
+  notification: true # Whether a message should be send in the specific channel
+  verification: true # Whether the user should be able to start the verification proccess
+  punishment:
+    mute: false # Whether the user should be muted
+    ban: false # Whether the user should be banned
+```
+
+
 
 ## Config.yml
 
